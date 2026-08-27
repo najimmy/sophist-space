@@ -1,0 +1,3893 @@
+0,1,2,3,4,5,6,7,8,9,10,11,page,table_number,12,13,14
+"Jenis
+Bencana","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,,2,1,,,
+,,"Meninggal
+& Hilang",Luka-Luka,"Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam","Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",2,1,,,
+,,Jiwa,,,Unit,,,,,,,2,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),2,1,,,
+"PUTING
+BELIUNG",1.387,21,290,50.105,2.731,5.749,25.337,-,170,138,24,2,1,,,
+BANJIR,784,367,1.088,1.801.151,4.019,2.171,10.199,222.067,440,343,77,2,1,,,
+"KEBA-
+KARAN
+HUTAN DAN
+LAHAN",746,10,3,63.047,-,-,-,-,-,-,-,2,1,,,
+"TANAH
+LONGSOR",719,121,130,19.158,424,330,1.004,-,36,32,3,2,1,,,
+"KEKERIN-
+GAN",123,-,-,3.872.358,-,-,-,-,-,-,-,2,1,,,
+"GEMPA
+BUMI",30,69,1.905,311.874,8.547,6.305,6.702,-,477,174,109,2,1,,,
+"GELOM-
+BANG
+PASANG /
+ABRASI",18,1,5,3.782,92,10,103,68,-,1,-,2,1,,,
+"LETUSAN
+GUNUNG
+API",7,-,-,7.930,-,-,-,-,-,-,-,2,1,,,
+JUMLAH,3.814,589,3.421,6.129.405,15.813,14.565,43.345,222.135,1.123,688,213,2,1,,,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,3,1,,,
+,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam","Fasillitas
+Pendidikan","Fasilitas
+Peribadatan",3,1,"Fasilitas
+Kesehatan",,
+,,,Jiwa,,,Unit,,,,,,3,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),3,1,(13),,
+11,ACEH,180,-,13,72.994,150,81,488,5.290,13,10,3,1,-,,
+12,SUMATERA UTARA,71,9,6,26.517,113,69,270,6.762,11,8,3,1,2,,
+13,SUMATERA BARAT,103,11,83,36.380,294,256,487,6.062,19,14,3,1,5,,
+14,RIAU,58,3,7,59.266,64,53,87,11.269,3,-,3,1,-,,
+15,JAMBI,28,1,1,17.840,12,,69,4.038,3,1,3,1,2,,
+16,SUMATERA SELATAN,95,4,6,23.915,190,22,370,4.753,10,5,3,1,3,,
+17,BENGKULU,25,31,7,74.129,234,827,995,7.456,27,18,3,1,7,,
+18,LAMPUNG,51,8,2,11.253,59,65,259,5.566,6,-,3,1,-,,
+19,"KEPULAUAN BANGKA
+BELITUNG",22,4,2,3.505,2,2,307,527,3,1,3,1,-,,
+21,KEPULAUAN RIAU,21,-,1,1.450,3,11,19,130,3,1,3,1,-,,
+31,DKI JAKARTA,6,3,1,2.335,,1,1,,-,1,3,1,-,,
+32,JAWA BARAT,706,27,76,1.189.792,641,1.364,8.231,36.588,69,109,3,1,7,,
+33,JAWA TENGAH,925,35,137,513.307,811,1.668,8.422,14.856,77,43,3,1,4,,
+34,DI YOGYAKARTA,29,6,30,231.579,,12,258,49,15,5,3,1,-,,
+35,JAWA TIMUR,623,18,47,583.621,425,2.301,5.846,33.738,80,73,3,1,13,,
+36,BANTEN,65,6,10,23.982,325,141,992,2.825,28,29,3,1,1,,
+51,BALI,56,7,22,53.781,14,3,79,9,15,20,3,1,-,,
+52,"NUSA TENGGARA
+BARAT",56,4,96,717.084,1.003,1.735,2.588,3.829,12,6,3,1,50,,
+53,"NUSA TENGGARA
+TIMUR",38,9,7,1.161.982,244,30,815,,5,4,3,1,-,,
+61,KALIMANTAN BARAT,43,4,,31.738,120,22,92,6.915,3,-,3,1,1,,
+62,"KALIMANTAN
+TENGAH",76,-,1,95.627,9,4,51,9.344,70,45,3,1,15,,
+63,"KALIMANTAN
+SELATAN",154,20,11,28.673,112,87,312,1.476,3,4,3,1,-,,
+64,KALIMANTAN TIMUR,54,4,,86.161,33,5,23,976,6,3,3,1,2,,
+65,KALIMANTAN UTARA,21,-,1,42,,9,21,772,2,1,3,1,-,,
+71,SULAWESI UTARA,18,21,20,18.262,106,21,927,682,2,3,3,1,1,,
+72,SULAWESI TENGAH,23,6,35,26.590,459,10,114,3.404,58,6,3,1,6,,
+73,SULAWESI SELATAN,164,86,59,377.527,786,232,1.788,45.612,142,67,3,1,25,,
+74,SULAWESI TENGGARA,20,2,,165.629,1.393,1.128,4.305,1.840,32,46,3,1,8,,
+75,GORONTALO,6,-,2,5.801,2,6,,717,2,1,3,1,-,,
+76,SULAWESI BARAT,11,-,,6.819,73,43,188,75,2,1,3,1,-,,
+81,MALUKU,36,43,1.626,238.806,6.143,3.366,3.196,530,193,95,3,1,29,,
+82,MALUKU UTARA,19,16,123,45.960,1.203,953,829,1.295,188,40,3,1,25,,
+91,PAPUA BARAT,10,-,,6.482,3,1,,1.017,-,-,3,1,-,,
+94,PAPUA,16,201,990,190.456,787,38,918,3.733,21,28,3,1,7,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,4,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",4,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,4,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),4,1,(13),(14),(15)
+11,ACEH,1101,SIMEULUE,9,-,-,7.484,-,-,207,1.554,4,1,6,3,-
+,,1102,"ACEH
+SINGKIL",9,-,-,23.677,7,2,12,134,4,1,-,1,-
+,,1103,"ACEH
+SELATAN",18,-,-,13.374,11,10,51,229,4,1,3,1,-
+,,1104,"ACEH
+TENGGARA",9,-,-,9.366,5,7,4,2.204,4,1,-,1,-
+,,1105,"ACEH
+TIMUR",8,-,-,1.513,10,5,5,35,4,1,1,1,-
+,,1106,"ACEH
+TENGAH",7,-,5,5,2,-,7,-,4,1,1,-,-
+,,1107,"ACEH
+BARAT",17,-,-,2.394,22,1,35,98,4,1,-,-,-
+,,1108,"ACEH
+BESAR",12,-,-,36,2,2,3,-,4,1,-,-,-
+,,1109,PIDIE,4,-,-,223,3,2,13,43,4,1,-,-,-
+,,1110,BIREUEN,8,-,-,146,11,16,16,10,4,1,1,1,-
+,,1111,"ACEH
+UTARA",8,-,-,3.431,25,4,25,218,4,1,1,-,-
+,,1112,"ACEH
+BARAT
+DAYA",8,-,-,460,4,21,14,-,4,1,-,-,-
+,,1113,GAYO LUES,10,-,-,484,32,6,35,29,4,1,-,-,-
+,,1115,"NAGAN
+RAYA",8,-,-,358,-,3,6,-,4,1,-,-,-
+,,1116,ACEH JAYA,16,-,-,4.357,1,-,1,520,4,1,-,-,-
+,,1117,"BENER
+MERIAH",9,-,8,155,7,1,41,-,4,1,-,1,-
+,,1118,PIDIE JAYA,4,-,-,61,1,-,3,30,4,1,-,1,-
+,,1171,"KOTA
+BANDA
+ACEH",1,-,-,5,1,-,-,-,4,1,-,-,-
+,,1172,"KOTA
+SABANG",4,-,-,5,-,1,3,-,4,1,-,-,-
+,,1173,"KOTA
+LANGSA",4,-,-,2.087,3,-,3,166,4,1,-,-,-
+,,1174,"KOTA
+LHOKSEU-
+MAWE",3,-,-,5,-,-,1,20,4,1,-,-,-
+,,1175,"KOTA
+SUBULUS-
+SALAM",4,-,-,3.368,3,-,3,-,4,1,-,-,-
+12,"SUMA-
+TERA
+UTARA",1201,NIAS,1,-,-,-,-,-,-,3,4,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,5,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",5,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,5,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),5,1,(13),(14),(15)
+,,1202,"MANDAIL-
+ING NATAL",2,-,-,300,1,-,12,60,5,1,10,2,1
+,,1203,"TAPANULI
+SELATAN",2,-,-,-,-,-,2,3,5,1,-,-,-
+,,1205,"TAPANULI
+UTARA",2,-,-,-,-,-,2,-,5,1,-,-,-
+,,1207,"LABUHAN
+BATU",2,-,-,175,5,-,5,-,5,1,-,-,-
+,,1208,ASAHAN,14,-,2,2.510,4,12,30,529,5,1,1,4,1
+,,1210,DAIRI,14,-,-,46,6,10,45,-,5,1,-,-,-
+,,1211,KARO,2,-,2,7.256,4,-,28,-,5,1,-,-,-
+,,1212,"DELI
+SERDANG",5,-,-,-,13,11,36,-,5,1,-,-,-
+,,1213,LANGKAT,10,3,1,520,2,14,18,606,5,1,-,-,-
+,,1217,SAMOSIR,2,1,1,40,4,-,4,-,5,1,-,-,-
+,,1218,"SERDANG
+BEDAGAI",1,-,-,55,3,-,8,-,5,1,-,1,-
+,,1219,BATU BARA,2,-,-,-,1,17,-,1.048,5,1,-,-,-
+,,1220,"PADANG
+LAWAS
+UTARA",1,-,-,-,35,-,32,-,5,1,-,-,-
+,,1222,"LABUHAN
+BATU
+SELATAN",1,-,-,-,-,2,10,-,5,1,-,-,-
+,,1223,"LABUHAN
+BATU
+UTARA",1,5,-,744,27,-,28,114,5,1,-,-,-
+,,1271,"KOTA
+SIBOLGA",1,-,-,-,-,-,2,-,5,1,-,-,-
+,,1275,"KOTA
+MEDAN",6,-,-,14.871,-,3,5,4.254,5,1,-,1,-
+,,1276,"KOTA
+BINJAI",1,-,-,-,-,-,3,-,5,1,-,-,-
+,,1277,"KOTA
+PADANG
+SIDEMP-
+UAN",1,-,-,-,8,-,-,145,5,1,-,-,-
+13,"SUMA-
+TERA
+BARAT",1301,"KEPU-
+LAUAN
+MENTAWAI",3,-,-,-,-,11,-,15,5,1,-,1,1
+,,1302,"PESISIR
+SELATAN",3,-,-,899,13,-,-,557,5,1,-,-,-
+,,1303,SOLOK,2,-,-,-,-,-,3,-,5,1,-,-,-
+,,1304,SIJUNJUNG,2,-,-,-,3,-,-,-,5,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,6,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",6,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,6,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),6,1,(13),(14),(15)
+,,1305,"TANAH
+DATAR",8,1,7,21,3,3,2,-,6,1,-,-,-
+,,1306,"PADANG
+PARIAMAN",26,3,4,73,13,11,35,545,6,1,1,2,-
+,,1307,AGAM,10,-,4,97,5,11,6,7,6,1,1,1,-
+,,1308,"LIMA
+PULUH
+KOTA",10,2,4,7.602,64,11,16,480,6,1,1,-,-
+,,1309,PASAMAN,4,-,-,1.155,1,-,1,-,6,1,-,1,-
+,,1310,"SOLOK
+SELATAN",10,1,62,20.704,185,199,410,4.208,6,1,16,9,4
+,,1311,"DHARMAS-
+RAYA",4,1,-,300,-,-,-,30,6,1,-,-,-
+,,1312,"PASAMAN
+BARAT",3,1,-,-,1,2,-,45,6,1,-,-,-
+,,1371,"KOTA
+PADANG",8,-,-,4.620,3,7,8,-,6,1,-,-,-
+,,1373,"KOTA
+SAWAHL-
+UNTO",6,1,-,359,3,1,6,2,6,1,-,-,-
+,,1375,"KOTA
+BUKIT-
+TINGGI",3,1,2,550,-,-,-,117,6,1,-,-,-
+,,1376,"KOTA PAYA-
+KUMBUH",1,-,-,-,-,-,-,56,6,1,-,-,-
+14,RIAU,1401,"KUANTAN
+SINGINGI",4,-,-,1.745,47,-,85,2.258,6,1,3,-,-
+,,1402,"INDRAGIRI
+HULU",3,-,-,-,-,-,-,213,6,1,-,-,-
+,,1403,"INDRAGIRI
+HILIR",2,-,-,15,3,-,-,-,6,1,-,-,-
+,,1404,"PELALA-
+WAN",4,-,-,7.174,-,-,-,2.489,6,1,-,-,-
+,,1405,SIAK,3,-,-,-,-,-,-,-,6,1,-,-,-
+,,1406,KAMPAR,3,-,-,39.635,-,-,-,1.319,6,1,-,-,-
+,,1407,"ROKAN
+HULU",6,2,-,10.661,-,-,-,4.252,6,1,-,-,-
+,,1408,BENGKALIS,6,-,-,-,-,-,-,-,6,1,-,-,-
+,,1409,"ROKAN
+HILIR",5,-,7,36,14,53,2,738,6,1,-,-,-
+,,1410,"KEPU-
+LAUAN
+MERANTI",1,-,-,-,-,-,-,-,6,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,7,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",7,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,7,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),7,1,(13),(14),(15)
+,,1471,"KOTA
+PEKAN-
+BARU",6,1,-,-,-,-,-,-,7,1,-,-,-
+,,1473,"KOTA
+DUMAI",15,-,-,-,-,-,-,-,7,1,-,-,-
+15,JAMBI,1501,KERINCI,3,-,-,480,2,-,-,111,7,1,-,-,-
+,,1502,MERANGIN,5,-,-,-,-,-,29,772,7,1,-,-,2
+,,1503,"SAROLAN-
+GUN",7,1,1,16.970,-,-,-,3.127,7,1,1,-,-
+,,1504,"BAT-
+ANGHARI",3,-,-,50,-,-,-,-,7,1,2,-,-
+,,1505,"MUARO
+JAMBI",1,-,-,-,-,-,-,-,7,1,-,-,-
+,,1506,"TANJUNG
+JABUNG
+TIMUR",4,-,-,220,-,-,-,28,7,1,-,-,-
+,,1507,"TANJUNG
+JABUNG
+BARAT",1,-,-,-,-,-,-,-,7,1,-,-,-
+,,1508,TEBO,1,-,-,-,-,-,-,-,7,1,-,-,-
+,,1509,BUNGO,1,-,-,-,-,-,-,-,7,1,-,-,-
+,,1572,"KOTA
+SUNGAI
+PENUH",2,-,-,120,10,-,40,-,7,1,-,1,-
+16,"SUMA-
+TERA
+SELATAN",1601,"OGAN
+KOMERING
+ULU",4,-,-,150,-,-,-,1.446,7,1,1,-,-
+,,1602,"OGAN
+KOMERING
+ILIR",4,-,-,444,-,-,-,347,7,1,-,-,-
+,,1603,"MUARA
+ENIM",3,1,-,99,-,1,-,19,7,1,-,-,-
+,,1604,LAHAT,3,-,-,-,7,-,73,-,7,1,1,1,-
+,,1605,"MUSI
+RAWAS",5,-,-,2.150,6,-,48,291,7,1,-,-,1
+,,1606,"MUSI
+BANYU
+ASIN",10,-,-,5.590,6,2,11,441,7,1,3,4,-
+,,1607,"BANYUA-
+SIN",10,1,3,-,64,-,50,164,7,1,-,-,-
+,,1608,"OGAN
+KOMER-
+ING ULU
+SELATAN",10,2,2,3,2,-,1,38,7,1,4,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,8,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",8,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,8,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),8,1,(13),(14),(15)
+,,1609,"OGAN
+KOMERING
+ULU TIMUR",1,-,-,-,-,-,9,-,8,1,-,-,-
+,,1610,OGAN ILIR,21,-,-,683,4,-,-,135,8,1,1,-,-
+,,1611,"EMPAT
+LAWANG",2,-,1,90,30,-,-,50,8,1,-,-,-
+,,1612,"PENUKAL
+ABAB
+LEMATANG
+ILIR",10,-,-,16,3,1,3,20,8,1,-,-,-
+,,1613,"MUSI
+RAWAS
+UTARA",4,-,-,14.690,68,18,175,1.802,8,1,-,-,-
+,,1671,KOTA PALEMBANG,2,-,-,-,-,-,-,-,8,1,-,-,2
+,,1673,"KOTA
+PAGAR
+ALAM",3,-,-,-,-,-,-,-,8,1,-,-,-
+,,1674,"KOTA
+LUBUK
+LINGGAU",3,-,-,-,-,-,-,-,8,1,-,-,-
+17,"BENG-
+KULU",1701,"BENGKULU
+SELATAN",1,-,-,90,1,2,15,-,8,1,-,-,-
+,,1702,"REJANG
+LEBONG",2,1,3,815,6,17,15,-,8,1,1,1,-
+,,1703,"BENGKULU
+UTARA",3,-,-,4.038,-,-,-,942,8,1,-,-,2
+,,1704,KAUR,1,1,-,4.851,65,151,468,850,8,1,7,4,1
+,,1705,SELUMA,6,1,-,3.805,12,9,39,169,8,1,-,3,1
+,,1706,"MUKOMU-
+KO",2,-,-,1.609,12,-,13,300,8,1,-,-,-
+,,1707,LEBONG,1,-,-,5.870,3,-,-,-,8,1,3,-,1
+,,1708,KEPAHIANG,5,4,-,1.876,33,19,235,356,8,1,2,-,1
+,,1709,"BENGKULU
+TENGAH",2,21,4,21.163,63,246,156,125,8,1,9,3,-
+,,1771,"KOTA
+BENGKULU",2,3,-,30.012,39,383,54,4.714,8,1,5,7,1
+18,"LAM-
+PUNG",1801,"LAMPUNG
+BARAT",16,-,-,45,6,2,64,8,8,1,-,-,-
+,,1802,TANGGAMUS,4,-,-,-,21,17,8,437,8,1,1,-,-
+,,1803,"LAMPUNG
+SELATAN",1,-,-,1.050,-,-,-,-,8,1,-,-,-
+,,1804,"LAMPUNG
+TIMUR",1,-,-,-,2,-,18,-,8,1,-,-,-
+,,1805,"LAMPUNG
+TENGAH",2,-,-,660,4,-,98,101,8,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,9,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",9,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,9,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),9,1,(13),(14),(15)
+,,1807,"WAY
+KANAN",1,-,-,557,-,-,-,3,9,1,-,-,-
+,,1808,"TULANG
+BAWANG",3,1,-,8.940,16,46,71,1.277,9,1,-,-,-
+,,1809,"PE-
+SAWARAN",21,1,-,1,-,-,-,1.212,9,1,-,-,-
+,,1813,"PESISIR
+BARAT",1,6,2,-,8,-,-,-,9,1,1,-,-
+,,1871,"KOTA
+BANDAR
+LAMPUNG",1,-,-,-,2,-,-,2.528,9,1,4,-,-
+19,"KEPU-
+LAUAN
+BANGKA
+BE-
+LITUNG",1901,BANGKA,4,-,1,478,-,-,116,77,9,1,1,1,-
+,,1902,BELITUNG,5,-,-,2.849,1,-,159,300,9,1,-,-,-
+,,1903,"BANGKA
+BARAT",1,-,-,-,-,-,17,-,9,1,2,-,-
+,,1904,"BANGKA
+TENGAH",6,4,1,-,1,-,11,-,9,1,-,-,-
+,,1905,"BANGKA
+SELATAN",1,-,-,-,-,-,-,31,9,1,-,-,-
+,,1971,"KOTA PANG-
+KALPINANG",5,-,-,178,-,2,4,119,9,1,-,-,-
+21,"KEPU-
+LAUAN
+RIAU",2101,KARIMUN,1,-,-,-,-,-,-,-,9,1,-,-,-
+,,2102,BINTAN,11,-,-,1.400,-,-,8,130,9,1,3,1,-
+,,2103,NATUNA,4,-,-,50,1,5,6,-,9,1,-,-,-
+,,2104,LINGGA,1,-,1,-,-,-,-,-,9,1,-,-,-
+,,2171,"KOTA
+BATAM",3,-,-,-,2,6,5,-,9,1,-,-,-
+,,2172,"KOTA
+TANJUNG
+PINANG",1,-,-,-,-,-,-,-,9,1,-,-,-
+31,"DKI
+JAKARTA",3171,"KOTA
+JAKARTA
+SELATAN",3,2,1,2.262,-,-,1,-,9,1,-,1,-
+,,3172,"KOTA
+JAKARTA
+TIMUR",3,1,-,5,-,1,-,-,9,1,-,-,-
+,,3175,"KOTA
+JAKARTA
+UTARA",1,-,-,68,-,-,-,-,9,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,10,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",10,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,10,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),10,1,(13),(14),(15)
+32,"JAWA
+BARAT",3201,BOGOR,137,13,18,27.069,77,218,774,698,10,1,8,10,2
+,,3202,SUKABUMI,63,3,6,8.953,223,344,440,33,10,1,12,11,-
+,,3203,CIANJUR,5,2,-,84.980,1,9,38,3,10,1,-,1,-
+,,3204,BANDUNG,30,3,16,396.525,153,512,4.106,20.297,10,1,15,56,2
+,,3205,GARUT,51,-,5,539,20,70,108,380,10,1,5,3,1
+,,3206,"TASIKMA-
+LAYA",9,1,-,13,4,2,8,-,10,1,-,-,-
+,,3207,CIAMIS,23,-,1,7.211,7,23,193,-,10,1,2,-,-
+,,3208,KUNINGAN,31,-,2,198,3,8,58,10,10,1,2,1,1
+,,3209,CIREBON,32,-,-,109.969,3,3,24,4.257,10,1,3,8,-
+,,3210,"MA-
+JALENGKA",65,-,1,2.721,5,27,151,308,10,1,5,7,-
+,,3211,SUMEDANG,36,-,-,62.803,7,3,44,295,10,1,1,1,-
+,,3212,"INDRA-
+MAYU",5,-,1,25.981,4,-,53,8.271,10,1,-,-,-
+,,3213,SUBANG,2,-,-,1.600,-,-,-,523,10,1,-,-,-
+,,3214,"PUR-
+WAKARTA",7,-,-,75.030,11,-,33,-,10,1,-,2,1
+,,3215,"KAR-
+AWANG",11,1,2,1.123,8,12,1.401,248,10,1,2,3,-
+,,3216,BEKASI,13,-,-,31.475,22,26,147,983,10,1,1,-,-
+,,3217,"BANDUNG
+BARAT",52,1,4,312.132,56,35,121,55,10,1,8,2,-
+,,3218,"PAN-
+GANDARAN",19,-,-,58,5,7,9,-,10,1,-,-,-
+,,3271,"KOTA
+BOGOR",52,-,1,3.973,16,11,97,78,10,1,2,3,-
+,,3272,"KOTA SUK-
+ABUMI",1,-,-,-,-,-,-,7,10,1,-,-,-
+,,3273,"KOTA
+BANDUNG",3,-,-,1.651,2,14,34,123,10,1,1,-,-
+,,3274,"KOTA
+CIREBON",1,-,-,8.265,-,-,-,-,10,1,-,-,-
+,,3275,"KOTA
+BEKASI",5,-,2,2.432,-,24,336,4,10,1,-,-,-
+,,3276,"KOTA
+DEPOK",1,1,5,-,-,-,-,-,10,1,-,-,-
+,,3277,"KOTA
+CIMAHI",3,2,6,20,3,-,4,-,10,1,-,-,-
+,,3278,"KOTA
+TASIKMA-
+LAYA",47,-,5,25.071,11,15,52,15,10,1,2,1,-
+,,3329,BREBES,1,-,1,-,-,1,-,-,10,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,11,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",11,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,11,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),11,1,(13),(14),(15)
+33,"JAWA
+TENGAH",3301,CILACAP,63,-,4,61.586,56,125,291,53,11,1,2,1,-
+,,3302,BANYUMAS,50,-,4,52.259,14,26,79,53,11,1,-,-,-
+,,3303,"PURBAL-
+INGGA",17,1,1,12.902,4,38,35,91,11,1,1,-,-
+,,3304,"BANJARNE-
+GARA",41,2,7,18.687,411,669,456,-,11,1,24,4,-
+,,3305,KEBUMEN,10,-,2,9.235,3,3,45,48,11,1,1,-,-
+,,3306,"PURWORE-
+JO",35,1,3,112.874,12,26,106,3.303,11,1,2,1,-
+,,3307,"WONO-
+SOBO",14,2,3,193,2,9,1.029,3,11,1,3,1,-
+,,3308,MAGELANG,74,5,7,4.085,19,91,1.775,16,11,1,4,2,1
+,,3309,BOYOLALI,29,-,3,24.647,17,25,450,4,11,1,2,2,-
+,,3310,KLATEN,20,1,10,70,14,32,350,-,11,1,4,3,-
+,,3311,"SUKOHAR-
+JO",10,-,2,1.455,3,17,239,181,11,1,1,-,-
+,,3312,WONOGIRI,49,1,1,6.506,10,30,258,83,11,1,1,2,1
+,,3313,"KARANGA-
+NYAR",17,-,-,710,1,7,102,-,11,1,-,-,-
+,,3314,SRAGEN,43,-,26,25.629,5,15,572,174,11,1,4,1,-
+,,3315,GROBOGAN,25,1,2,32.927,7,30,603,867,11,1,2,2,1
+,,3316,BLORA,15,-,-,46,17,22,55,387,11,1,-,-,-
+,,3317,REMBANG,3,-,2,-,5,2,124,100,11,1,-,-,-
+,,3318,PATI,30,-,2,11.141,12,1,204,3.057,11,1,2,-,-
+,,3319,KUDUS,21,1,5,2.412,1,1,248,597,11,1,2,1,-
+,,3320,JEPARA,49,1,27,50,31,23,76,268,11,1,1,2,-
+,,3321,DEMAK,10,1,1,7,15,-,189,180,11,1,1,-,-
+,,3322,SEMARANG,25,2,5,13.610,5,8,15,-,11,1,-,1,-
+,,3323,TEMANGGUNG,59,2,6,13.538,5,20,195,9,11,1,-,1,-
+,,3324,KENDAL,38,1,3,2.136,44,33,150,67,11,1,2,1,-
+,,3325,BATANG,2,-,-,950,-,-,1,-,11,1,-,-,-
+,,3326,"PEKALON-
+GAN",13,-,-,17.955,2,18,23,1.364,11,1,4,1,-
+,,3327,PEMALANG,8,7,-,42.235,23,19,38,-,11,1,2,1,-
+,,3328,TEGAL,17,-,2,26.887,41,258,427,2.403,11,1,7,13,1
+,,3329,BREBES,39,2,-,1.507,17,84,160,500,11,1,3,1,-
+,,3372,"KOTA
+SURAKAR-
+TA",5,-,-,555,-,1,1,518,11,1,-,1,-
+,,3374,"KOTA SE-
+MARANG",86,4,9,14.562,15,35,120,174,11,1,2,1,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,12,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",12,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,12,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),12,1,(13),(14),(15)
+,,3375,"KOTA
+PEKALON-
+GAN",3,-,-,1.944,-,-,5,-,12,1,-,-,-
+,,3376,"KOTA
+TEGAL",5,-,-,7,-,-,1,356,12,1,-,-,-
+34,"DI YOGY-
+AKARTA",3401,"KULON-
+PROGO",3,-,-,402,-,2,22,-,12,1,-,-,-
+,,3402,BANTUL,9,5,4,10.296,-,-,39,-,12,1,5,-,-
+,,3403,"GUNUNG-
+KIDUL",7,-,2,220.855,-,3,14,46,12,1,4,1,-
+,,3404,SLEMAN,10,1,16,26,-,7,181,3,12,1,6,4,-
+,,3471,"KOTA YOGY-
+AKARTA",2,-,8,-,-,-,2,-,12,1,-,-,-
+35,"JAWA
+TIMUR",3501,PACITAN,7,-,1,11.428,1,1,32,-,12,1,-,-,1
+,,3502,PONOROGO,39,2,-,8.770,5,8,101,6,12,1,1,1,-
+,,3503,"TRENG-
+GALEK",39,-,-,23.166,-,6,89,527,12,1,1,1,-
+,,3504,"TULUNGA-
+GUNG",9,-,-,390,-,-,435,113,12,1,1,1,-
+,,3505,BLITAR,13,-,-,2.211,4,1,21,-,12,1,-,-,-
+,,3506,KEDIRI,12,-,1,468,13,2,171,90,12,1,-,-,-
+,,3507,MALANG,17,1,5,685,5,33,175,-,12,1,-,1,2
+,,3508,LUMAJANG,18,-,-,8.964,2,7,32,392,12,1,1,1,-
+,,3509,JEMBER,45,2,6,9.119,21,36,307,665,12,1,7,12,2
+,,3510,"BANYU-
+WANGI",22,1,4,7.925,3,7,51,58,12,1,-,3,-
+,,3511,"BONDOW-
+OSO",7,-,1,11.530,76,164,319,-,12,1,-,-,-
+,,3512,"SITUBON-
+DO",48,-,2,1.393,14,4,137,-,12,1,-,-,-
+,,3513,"PROBOL-
+INGGO",16,2,2,11.041,9,13,196,-,12,1,3,-,-
+,,3514,PASURUAN,11,-,-,20.550,-,1,1,3.804,12,1,-,-,-
+,,3515,SIDOARJO,24,-,-,2.502,-,32,697,498,12,1,1,-,-
+,,3516,"MOJOK-
+ERTO",37,-,3,2.194,18,22,78,1.176,12,1,-,4,1
+,,3517,JOMBANG,24,-,5,12.319,6,2,152,2.522,12,1,3,13,-
+,,3518,NGANJUK,43,-,3,1.114,14,32,221,967,12,1,1,1,1
+,,3519,MADIUN,17,-,1,17.328,7,8,146,4.321,12,1,-,-,-
+,,3520,MAGETAN,15,-,2,12.371,3,25,127,494,12,1,3,-,1
+,,3521,NGAWI,12,-,-,93.411,4,1,12,3.087,12,1,1,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,13,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",13,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,13,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),13,1,(13),(14),(15)
+,,3522,"BOJONE-
+GORO",22,-,3,68.929,96,1.729,1.423,3.716,13,1,16,14,1
+,,3523,TUBAN,15,2,1,11.944,20,5,43,682,13,1,7,8,-
+,,3524,"LAMON-
+GAN",17,-,-,12.594,43,6,66,434,13,1,8,2,1
+,,3525,GRESIK,24,2,-,1.040,11,24,80,8.440,13,1,15,4,2
+,,3526,"BANGKAL-
+AN",5,1,-,37.251,3,-,22,600,13,1,-,-,-
+,,3527,SAMPANG,3,-,1,34.524,-,-,5,-,13,1,-,-,-
+,,3528,"PAMEKA-
+SAN",10,2,1,76.684,1,-,65,1.138,13,1,-,3,-
+,,3529,SUMENEP,8,-,2,3.118,31,18,143,-,13,1,3,1,-
+,,3571,"KOTA
+KEDIRI",2,1,2,-,-,-,4,-,13,1,1,-,-
+,,3572,"KOTA
+BLITAR",1,-,-,28.075,-,-,-,-,13,1,-,-,-
+,,3573,"KOTA
+MALANG",13,-,1,9,4,7,12,-,13,1,2,-,1
+,,3575,"KOTA PAS-
+URUAN",1,-,-,37.747,-,-,-,-,13,1,-,-,-
+,,3576,"KOTA MO-
+JOKERTO",1,-,-,6.127,-,-,-,-,13,1,-,-,-
+,,3577,"KOTA
+MADIUN",3,-,-,-,-,-,1,8,13,1,-,-,-
+,,3578,"KOTA
+SURABAYA",4,1,-,1,-,-,-,-,13,1,1,-,-
+,,3579,KOTA BATU,19,1,-,6.699,11,107,482,-,13,1,4,3,-
+36,BANTEN,3601,"PANDE-
+GLANG",3,2,2,116,135,122,390,-,13,1,18,16,-
+,,3602,LEBAK,8,3,-,4.738,167,-,129,470,13,1,7,8,-
+,,3603,"TAN-
+GERANG",3,-,6,200,7,9,281,-,13,1,-,3,-
+,,3604,SERANG,48,-,1,14.455,15,10,189,200,13,1,3,-,-
+,,3671,"KOTA TAN-
+GERANG",2,1,1,688,-,-,-,-,13,1,-,-,-
+,,3672,"KOTA
+CILEGON",3,-,-,3.785,1,-,3,2.155,13,1,-,1,-
+,,3673,"KOTA
+SERANG",1,-,-,-,-,-,-,-,13,1,-,1,1
+51,BALI,5101,JEMBRANA,8,-,2,6,-,-,17,-,13,1,2,-,-
+,,5102,TABANAN,1,-,-,-,-,-,-,-,13,1,-,-,-
+,,5103,BADUNG,12,-,3,-,1,-,30,1,13,1,13,11,-
+,,5104,GIANYAR,3,-,-,-,-,-,4,-,13,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,14,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",14,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,14,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),14,1,(13),(14),(15)
+,,5105,"KLUNG-
+KUNG",2,-,-,-,6,-,11,-,14,1,-,2,-
+,,5106,BANGLI,2,-,1,-,-,-,1,-,14,1,-,-,-
+,,5107,"KARAN-
+GASEM",24,3,16,843,1,2,11,8,14,1,-,6,-
+,,5108,BULELENG,7,4,-,52.932,6,1,5,-,14,1,-,-,-
+,,5171,"KOTA
+DENPASAR",1,-,-,-,-,-,-,-,14,1,-,1,-
+52,"NUSA
+TENG-
+GARA
+BARAT",5201,"LOMBOK
+BARAT",3,-,-,65.322,-,-,-,-,14,1,-,-,-
+,,5202,"LOMBOK
+TENGAH",6,-,2,274.215,-,18,42,417,14,1,-,-,-
+,,5203,"LOMBOK
+TIMUR",6,4,40,154.341,882,1.617,2.106,-,14,1,1,4,50
+,,5204,SUMBAWA,7,-,1,81.140,10,-,55,45,14,1,4,2,-
+,,5205,DOMPU,5,-,3,56.062,73,75,75,1.406,14,1,-,-,-
+,,5206,BIMA,6,-,-,22.468,25,-,250,593,14,1,4,-,-
+,,5207,"SUMBAWA
+BARAT",10,-,-,11.693,9,25,53,204,14,1,1,-,-
+,,5208,"LOMBOK
+UTARA",6,-,37,28.294,4,-,4,52,14,1,2,-,-
+,,5271,"KOTA
+MATARAM",2,-,13,127,-,-,2,-,14,1,-,-,-
+,,5272,KOTA BIMA,6,-,-,23.422,-,-,1,1.112,14,1,-,-,-
+53,"NUSA
+TENG-
+GARA
+TIMUR",5301,"SUMBA
+BARAT",2,-,-,139.746,-,-,-,-,14,1,1,-,-
+,,5302,"SUMBA
+TIMUR",5,-,2,13.637,29,20,49,-,14,1,1,-,-
+,,5303,KUPANG,2,-,-,40.186,145,-,-,-,14,1,-,-,-
+,,5304,"TIMOR
+TENGAH
+SELATAN",1,-,-,29.398,-,-,-,-,14,1,-,-,-
+,,5305,"TIMOR
+TENGAH
+UTARA",1,-,-,94.338,-,-,-,-,14,1,-,-,-
+,,5306,BELU,2,-,-,99.410,-,-,1,-,14,1,-,-,-
+,,5307,ALOR,1,-,-,59.055,-,-,-,-,14,1,-,-,-
+,,5308,LEMBATA,1,-,-,23.408,-,-,-,-,14,1,-,-,-
+,,5309,"FLORES
+TIMUR",2,-,-,22.082,1,10,-,-,14,1,1,1,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,15,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",15,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,15,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),15,1,(13),(14),(15)
+,,5310,SIKKA,2,-,-,10.885,56,-,-,-,15,1,-,-,-
+,,5311,ENDE,1,-,-,-,-,-,-,-,15,1,-,-,-
+,,5312,NGADA,1,-,-,163.217,-,-,-,-,15,1,-,-,-
+,,5313,"MANGGA-
+RAI",1,1,-,-,-,-,-,-,15,1,-,-,-
+,,5314,ROTE NDAO,2,-,1,51.076,-,-,1,-,15,1,-,-,-
+,,5315,"MANGGA-
+RAI BARAT",6,8,3,87.880,13,-,20,-,15,1,2,3,-
+,,5316,"SUMBA
+TENGAH",1,-,-,46.800,-,-,-,-,15,1,-,-,-
+,,5317,"SUMBA
+BARAT
+DAYA",1,-,-,15.493,-,-,-,-,15,1,-,-,-
+,,5318,NAGEKEO,1,-,-,63.662,-,-,-,-,15,1,-,-,-
+,,5320,"SABU
+RAIJUA",1,-,-,94.509,-,-,-,-,15,1,-,-,-
+,,5321,MALAKA,1,-,-,68.740,-,-,-,-,15,1,-,-,-
+,,5371,"KOTA
+KUPANG",3,-,1,38.460,-,-,744,-,15,1,-,-,-
+61,"KALIM-
+ANTAN
+BARAT",6101,SAMBAS,2,-,-,890,-,-,-,174,15,1,-,-,-
+,,6102,"BENG-
+KAYANG",2,3,-,-,11,-,-,-,15,1,-,-,-
+,,6103,LANDAK,4,1,-,16.213,-,-,1,4.593,15,1,-,-,-
+,,6104,"MEMP-
+AWAH",3,-,-,2.948,-,-,-,-,15,1,-,-,-
+,,6105,SANGGAU,5,-,-,4.317,-,-,8,348,15,1,-,-,-
+,,6106,KETAPANG,1,-,-,-,-,-,-,-,15,1,-,-,-
+,,6107,SINTANG,1,-,-,-,-,-,-,-,15,1,-,-,-
+,,6108,"KAPUAS
+HULU",3,-,-,-,1,-,-,40,15,1,-,-,-
+,,6109,SEKADAU,7,-,-,3.179,1,-,10,1.592,15,1,1,-,-
+,,6110,MELAWI,2,-,-,1.157,-,4,-,168,15,1,-,-,-
+,,6111,"KAYONG
+UTARA",2,-,-,-,1,-,-,-,15,1,1,-,-
+,,6112,KUBU RAYA,3,-,-,2.750,93,-,-,-,15,1,-,-,1
+,,6171,"KOTA PON-
+TIANAK",4,-,-,40,13,18,73,-,15,1,1,-,-
+,,6172,"KOTA SING-
+KAWANG",4,-,-,244,-,-,-,-,15,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,16,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",16,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,16,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),16,1,(13),(14),(15)
+62,"KALIM-
+ANTAN
+TENGAH",6201,"KOTA-
+WARINGIN
+BARAT",8,-,-,247,-,-,1,80,16,1,-,1,-
+,,6202,"KOTA-
+WARINGIN
+TIMUR",6,-,-,2.445,-,-,-,101,16,1,-,-,-
+,,6203,KAPUAS,10,-,1,9.902,5,3,43,1.473,16,1,6,2,-
+,,6204,"BARITO
+SELATAN",2,-,-,51,-,-,-,15,16,1,-,-,-
+,,6205,"BARITO
+UTARA",9,-,-,2.452,2,-,1,976,16,1,6,6,3
+,,6206,SUKAMARA,3,-,-,17,-,1,-,-,16,1,-,-,-
+,,6207,LAMANDAU,6,-,-,372,-,-,1,4,16,1,1,1,-
+,,6208,SERUYAN,4,-,-,10,2,-,1,-,16,1,-,-,-
+,,6209,KATINGAN,2,-,-,291,-,-,-,1.205,16,1,11,9,2
+,,6210,"PULANG
+PISAU",8,-,-,10.305,-,-,-,3.772,16,1,44,24,10
+,,6211,"GUNUNG
+MAS",3,-,-,65.558,-,-,-,1.000,16,1,-,-,-
+,,6213,"MURUNG
+RAYA",6,-,-,3.977,-,-,4,716,16,1,2,2,-
+,,6271,"KOTA
+PALANGKARAYA",9,-,-,-,-,-,-,2,16,1,-,-,-
+63,"KALIM-
+ANTAN
+SELATAN",6301,"TANAH
+LAUT",23,-,-,323,13,12,82,-,16,1,-,1,-
+,,6302,KOTABARU,10,8,1,1.262,21,6,-,250,16,1,-,-,-
+,,6303,BANJAR,25,5,-,685,48,46,124,-,16,1,-,2,-
+,,6304,"BARITO
+KUALA",9,-,-,333,14,11,68,-,16,1,-,-,-
+,,6305,TAPIN,18,-,-,3.352,2,-,4,752,16,1,1,1,-
+,,6306,"HULU
+SUNGAI
+SELATAN",8,-,-,9,-,5,1,-,16,1,-,-,-
+,,6307,"HULU
+SUNGAI
+TENGAH",2,-,-,-,-,-,-,-,16,1,-,-,-
+,,6308,"HULU
+SUNGAI
+UTARA",3,-,-,119,-,-,24,-,16,1,2,-,-
+,,6309,TABALONG,6,-,2,99,1,-,-,46,16,1,-,-,-
+,,6310,"TANAH
+BUMBU",9,-,1,16.611,4,-,3,39,16,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,17,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",17,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,17,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),17,1,(13),(14),(15)
+,,6311,BALANGAN,14,-,-,5.567,7,4,1,284,17,1,-,-,-
+,,6371,"KOTA BAN-
+JARMASIN",7,-,-,54,-,3,4,52,17,1,-,-,-
+,,6372,"KOTA BAN-
+JARBARU",23,7,7,259,2,-,1,53,17,1,-,-,-
+64,"KALIM-
+ANTAN
+TIMUR",6401,PASER,9,-,-,664,9,-,18,-,17,1,2,1,1
+,,6402,"KUTAI
+BARAT",1,-,-,-,-,-,-,-,17,1,-,-,-
+,,6403,"KUTAI
+KERTANE-
+GARA",3,-,-,16.510,24,-,3,-,17,1,-,1,-
+,,6404,"KUTAI
+TIMUR",2,-,-,-,-,-,-,-,17,1,-,-,-
+,,6409,"PENAJAM
+PASER
+UTARA",22,-,-,2.764,-,-,2,350,17,1,4,1,1
+,,6471,"KOTA BA-
+LIKPAPAN",2,-,-,-,-,-,-,-,17,1,-,-,-
+,,6472,"KOTA SAM-
+ARINDA",7,4,-,56.158,-,5,-,626,17,1,-,-,-
+,,6474,"KOTA
+BONTANG",8,-,-,10.065,-,-,-,-,17,1,-,-,-
+65,"KALIM-
+ANTAN
+UTARA",6501,MALINAU,2,-,-,-,-,-,-,258,17,1,2,1,-
+,,6502,BULUNGAN,6,-,-,-,-,-,3,400,17,1,-,-,-
+,,6503,"TANA
+TIDUNG",2,-,-,-,-,-,-,-,17,1,-,-,-
+,,6504,NUNUKAN,10,-,-,-,-,9,4,114,17,1,-,-,-
+,,6571,"KOTA
+TARAKAN",1,-,1,42,-,-,14,-,17,1,-,-,-
+71,"SULAWE-
+SI UTARA",7101,"BOLAANG
+MONGON-
+DOW",3,16,19,-,51,-,68,-,17,1,2,3,1
+,,7102,MINAHASA,7,-,-,425,1,-,39,78,17,1,-,-,-
+,,7103,"KEPU-
+LAUAN
+SANGIHE",1,-,-,400,-,-,-,-,17,1,-,-,-
+,,7107,"BOLAANG
+MON-
+GONDOW
+UTARA",3,-,-,4.850,-,-,1,604,17,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,18,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",18,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,18,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),18,1,(13),(14),(15)
+,,7108,"KEPU-
+LAUAN
+SIAU TAGU-
+LANDANG
+BIARO",1,-,-,216,-,-,-,-,18,1,-,-,-
+,,7109,"MINAHASA
+TENGGARA",1,-,-,-,-,-,-,-,18,1,-,-,-
+,,7171,"KOTA
+MANADO",2,5,-,12.371,54,20,819,-,18,1,-,-,-
+,,7172,"KOTA
+BITUNG",1,-,1,-,-,1,-,-,18,1,-,-,-
+72,"SU-
+LAWESI
+TENGAH",7202,BANGGAI,6,1,4,13.750,6,3,34,1.000,18,1,1,2,-
+,,7203,MOROWALI,1,1,-,2.277,7,-,-,114,18,1,-,-,-
+,,7204,POSO,2,-,-,-,-,-,-,119,18,1,49,-,-
+,,7205,DONGGALA,1,-,-,900,10,-,-,975,18,1,-,-,-
+,,7206,TOLI-TOLI,2,-,-,24,4,-,-,-,18,1,-,-,-
+,,7207,BUOL,1,-,-,696,-,-,-,169,18,1,-,-,-
+,,7208,"PARIGI
+MOUTONG",2,-,-,1.684,8,-,-,206,18,1,-,-,1
+,,7210,SIGI,6,4,30,6.886,419,7,80,709,18,1,8,4,5
+,,7212,"MOROWALI
+UTARA",2,-,1,373,5,-,-,112,18,1,-,-,-
+73,"SU-
+LAWESI
+SELATAN",7301,SELAYAR,2,2,-,4.569,126,56,111,-,18,1,2,-,-
+,,7302,"BULUKUM-
+BA",2,-,-,-,-,-,40,17,18,1,-,-,-
+,,7303,BANTAENG,1,-,-,-,-,1,-,-,18,1,-,-,-
+,,7304,JENEPONTO,4,16,-,14.850,504,53,391,-,18,1,26,-,-
+,,7305,TAKALAR,7,2,-,11.388,17,4,26,1.632,18,1,-,-,-
+,,7306,GOWA,3,57,52,2.131,12,-,-,604,18,1,-,-,-
+,,7307,SINJAI,7,-,-,125,9,5,33,-,18,1,-,-,-
+,,7308,MAROS,2,6,-,183.341,3,1,9,17.122,18,1,-,1,-
+,,7309,"PANGKA-
+JENE KEPU-
+LAUAN",6,1,1,141,10,3,28,15,18,1,2,1,-
+,,7310,BARRU,9,-,-,151,1,5,41,-,18,1,5,-,1
+,,7311,BONE,5,-,-,220,11,5,52,-,18,1,-,-,-
+,,7312,SOPPENG,5,1,-,31.680,-,20,57,350,18,1,-,-,-
+,,7313,WAJO,13,-,-,62.493,11,13,31,12.130,18,1,75,42,24
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,19,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",19,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,19,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),19,1,(13),(14),(15)
+,,7314,"SIDENRENG
+RAPPANG",14,-,-,17.404,1,16,182,10.794,19,1,9,1,-
+,,7315,PINRANG,5,-,-,3.000,4,5,607,-,19,1,-,-,-
+,,7316,ENREKANG,12,-,4,785,43,16,48,320,19,1,2,1,-
+,,7317,LUWU,6,-,-,8.310,2,1,-,1.757,19,1,15,19,-
+,,7318,"TANA
+TORAJA",40,-,2,983,20,11,59,4,19,1,5,2,-
+,,7322,"LUWU
+UTARA",4,-,-,12.732,8,11,57,-,19,1,-,-,-
+,,7325,"LUWU
+TIMUR",14,-,-,12.896,4,5,15,390,19,1,1,-,-
+,,7326,"TORAJA
+UTARA",2,-,-,-,-,1,1,-,19,1,-,-,-
+,,7371,"KOTA
+MAKASSAR",1,1,-,10.328,-,-,-,477,19,1,-,-,-
+74,"SU-
+LAWESI
+TENGGA-
+RA",7403,KONAWE,1,2,-,127.357,1.020,1.016,4.249,-,19,1,-,41,-
+,,7404,KOLAKA,2,-,-,250,-,8,-,-,19,1,-,-,-
+,,7405,"KONAWE
+SELATAN",2,-,-,6.306,1,-,6,-,19,1,1,-,-
+,,7408,"KOLAKA
+UTARA",2,-,-,159,-,29,1,3,19,1,-,-,-
+,,7409,"BUTON
+UTARA",2,-,-,420,1,-,-,-,19,1,-,-,-
+,,7410,"KONAWE
+UTARA",1,-,-,28.900,370,-,-,1.837,19,1,30,5,8
+,,7411,"KOLAKA
+TIMUR",4,-,-,-,-,-,-,-,19,1,-,-,-
+,,7413,"MUNA
+BARAT",1,-,-,-,-,-,3,-,19,1,1,-,-
+,,7414,"BUTON
+TENGAH",1,-,-,138,-,-,46,-,19,1,-,-,-
+,,7415,"BUTON
+SELATAN",1,-,-,-,-,75,-,-,19,1,-,-,-
+,,7471,"KOTA
+KENDARI",3,-,-,2.099,1,-,-,-,19,1,-,-,-
+75,GORONTALO,7501,BOALEMO,2,-,-,5.780,1,4,-,672,19,1,2,1,-
+,,7502,"GORONTA-
+LO",3,-,2,21,1,2,-,-,19,1,-,-,-
+,,7503,POHUWATO,1,-,-,-,-,-,-,45,19,1,-,-,-
+76,"SULAWE-
+SI BARAT",7602,"POLEWALI
+MANDAR",3,-,-,-,2,2,38,-,19,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,20,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",20,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,20,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),20,1,(13),(14),(15)
+,,7603,MAMASA,1,-,-,-,-,-,-,20,20,1,-,-,-
+,,7604,MAMUJU,2,-,-,1.073,69,23,147,-,20,1,2,1,-
+,,7605,"PASANG-
+KAYU",2,-,-,50,-,-,3,40,20,1,-,-,-
+,,7606,"MAMUJU
+TENGAH",3,-,-,5.696,2,18,-,15,20,1,-,-,-
+81,MALUKU,8101,"MALUKU
+TENGGARA
+BARAT",1,-,-,75,-,-,-,-,20,1,-,-,-
+,,8102,"MALUKU
+TENGGARA",7,-,1,189,1,22,38,-,20,1,-,-,1
+,,8103,"MALUKU
+TENGAH",7,18,1.152,90.856,4.453,2.455,2.132,-,20,1,58,19,6
+,,8104,BURU,1,-,-,305,9,-,53,-,20,1,-,-,-
+,,8106,"SERAM
+BAGIAN
+BARAT",5,11,396,111.915,741,484,320,37,20,1,48,36,10
+,,8107,"SERAM
+BAGIAN
+TIMUR",8,-,-,4.354,-,-,1,368,20,1,1,-,-
+,,8108,"MALUKU
+BARAT
+DAYA",3,-,-,2.379,-,-,236,125,20,1,4,4,-
+,,8171,"KOTA
+AMBON",7,14,77,28.733,939,405,416,-,20,1,82,36,12
+82,"MALUKU
+UTARA",8202,"HALMA-
+HERA
+TENGAH",3,-,-,-,-,-,-,343,20,1,1,3,1
+,,8203,"KEPU-
+LAUAN
+SULA",1,-,-,-,-,-,-,-,20,1,-,-,-
+,,8204,"HALMA-
+HERA
+SELATAN",2,14,121,44.453,1.201,953,746,-,20,1,181,30,22
+,,8205,"HALMA-
+HERA
+UTARA",2,-,-,-,-,-,-,184,20,1,4,2,1
+,,8207,"PULAU
+MOROTAI",5,2,-,1.103,-,-,44,613,20,1,-,2,-
+,,8208,"PULAU
+TALIABU",5,-,-,404,2,-,-,155,20,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,21,1,,,
+,,,,,"Meninggal
+& Hilang","Luka-
+Luka","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",21,1,"Fasillitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,21,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),21,1,(13),(14),(15)
+,,8271,"KOTA
+TERNATE",1,-,2,-,-,-,39,-,21,1,2,3,1
+91,"PAPUA
+BARAT",9103,"TELUK
+WONDAMA",2,-,-,4.209,-,-,-,56,21,1,-,-,-
+,,9104,"TELUK
+BINTUNI",2,-,-,575,-,-,-,215,21,1,-,-,-
+,,9105,"MANOK-
+WARI",5,-,-,1.698,3,1,-,196,21,1,-,-,-
+,,9107,SORONG,1,-,-,-,-,-,-,550,21,1,-,-,-
+94,PAPUA,9403,JAYAPURA,3,187,983,179.016,712,6,400,2.418,21,1,10,18,3
+,,9404,NABIRE,2,-,-,1.815,1,-,-,-,21,1,-,-,-
+,,9417,"PEGUNUN-
+GAN
+BINTANG",2,-,-,1.210,-,-,-,-,21,1,4,-,2
+,,9418,TOLIKARA,1,6,-,120,-,-,-,140,21,1,-,1,-
+,,9419,SARMI,3,-,3,240,69,32,518,-,21,1,7,9,1
+,,9431,"MAM-
+BERAMO
+TENGAH",2,-,-,-,-,-,-,-,21,1,-,-,1
+,,9471,"KOTA
+JAYAPURA",3,8,4,8.055,5,-,-,1.175,21,1,-,-,-
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,22,1,,,
+,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam","Fasilitas
+Pendidikan","Fasilitas
+Peribadatan",22,1,"Fasilitas
+Kesehatan",,
+,,,Jiwa,,,Unit,,,,,,22,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),22,1,(13),,
+11,ACEH,65,-,-,71.071,9,12,273,5.290,8,5,22,1,-,,
+12,SUMATERA UTARA,22,6,1,19.062,40,-,32,6.762,11,4,22,1,1,,
+13,SUMATERA BARAT,29,9,6,27.779,129,29,47,6.036,9,8,22,1,1,,
+14,RIAU,16,1,-,59.150,42,-,70,11.269,-,-,22,1,-,,
+15,JAMBI,12,-,-,17.713,-,-,-,4.038,3,-,22,1,-,,
+16,SUMATERA SELATAN,30,2,1,21.829,35,-,73,4.753,8,2,22,1,1,,
+17,BENGKULU,15,30,4,73.814,234,816,981,7.456,27,18,22,1,7,,
+18,LAMPUNG,10,2,-,10.182,21,17,30,5.566,4,-,22,1,-,,
+19,"KEPULAUAN BANG-
+KA BELITUNG",12,-,1,3.464,-,-,271,527,1,1,22,1,-,,
+21,KEPULAUAN RIAU,1,-,-,1.400,-,-,1,130,3,1,22,1,-,,
+31,DKI JAKARTA,1,2,-,2.258,-,-,-,-,-,-,22,1,-,,
+32,JAWA BARAT,105,4,1,222.109,37,29,455,36.583,27,76,22,1,1,,
+33,JAWA TENGAH,111,13,10,99.476,1,35,31,14.856,9,2,22,1,-,,
+34,DI YOGYAKARTA,6,2,1,595,-,-,21,49,9,1,22,1,-,,
+35,JAWA TIMUR,99,4,1,136.681,5,17,75,33.738,37,28,22,1,3,,
+36,BANTEN,9,-,-,7.534,97,-,174,2.825,5,3,22,1,-,,
+51,BALI,5,-,-,6,-,2,-,9,-,-,22,1,-,,
+52,"NUSA TENGGARA
+BARAT",19,-,-,15.066,18,-,250,3.829,4,-,22,1,-,,
+53,"NUSA TENGGARA
+TIMUR",1,-,-,-,1,10,-,-,1,1,22,1,-,,
+61,KALIMANTAN BARAT,19,1,-,31.650,1,4,9,6.915,-,-,22,1,-,,
+62,"KALIMANTAN
+TENGAH",30,-,-,95.568,-,1,-,9.344,70,44,22,1,15,,
+63,"KALIMANTAN
+SELATAN",20,-,-,22.048,1,-,-,1.476,-,-,22,1,-,,
+64,KALIMANTAN TIMUR,12,-,-,85.937,18,-,3,976,3,3,22,1,2,,
+65,KALIMANTAN UTARA,5,-,-,-,-,8,5,772,2,1,22,1,-,,
+71,SULAWESI UTARA,5,4,-,17.401,53,20,826,682,-,-,22,1,-,,
+72,SULAWESI TENGAH,18,5,31,20.090,453,7,80,3.404,8,4,22,1,6,,
+73,SULAWESI SELATAN,46,86,48,359.458,643,114,1.092,45.575,133,64,22,1,25,,
+74,"SULAWESI TENG-
+GARA",8,2,-,165.194,1.390,1.016,4.296,1.840,30,46,22,1,8,,
+75,GORONTALO,3,-,-,5.780,1,4,-,717,2,1,22,1,-,,
+76,SULAWESI BARAT,6,-,-,6.819,71,23,145,75,2,1,22,1,-,,
+81,MALUKU,11,-,-,2.889,-,-,41,530,2,-,22,1,-,,
+82,MALUKU UTARA,11,-,-,759,2,-,-,1.295,5,5,22,1,2,,
+91,PAPUA BARAT,10,-,-,6.482,3,1,-,1.017,-,-,22,1,-,,
+94,PAPUA,12,194,983,189.536,714,6,918,3.733,17,24,22,1,5,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,23,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",23,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,23,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),23,1,(13),(14),(15)
+11,ACEH,1101,SIMEULUE,9,-,,7.484,,,207,1.554,23,1,6,3,-
+,,1102,"ACEH
+SINGKIL",4,-,,23.601,1,,2,134,23,1,-,1,-
+,,1103,"ACEH
+SELATAN",9,-,,13.374,,9,51,229,23,1,2,1,-
+,,1104,"ACEH TENG-
+GARA",7,-,,9.341,4,2,2,2.204,23,1,-,-,-
+,,1105,ACEH TIMUR,6,-,,1.408,,,,35,23,1,-,-,-
+,,1107,ACEH BARAT,2,-,,1.847,,,,98,23,1,-,-,-
+,,1109,PIDIE,3,-,,208,1,,11,43,23,1,-,-,-
+,,1110,BIREUEN,1,-,,5,,,,10,23,1,-,-,-
+,,1111,ACEH UTARA,2,-,,3.274,,,,218,23,1,-,-,-
+,,1112,"ACEH BARAT
+DAYA",4,-,,275,,,,,23,1,-,-,-
+,,1113,GAYO LUES,2,-,,145,3,,,29,23,1,-,-,-
+,,1115,NAGAN RAYA,1,-,,352,,,,,23,1,-,-,-
+,,1116,ACEH JAYA,7,-,-,4.354,-,-,-,520,23,1,-,-,-
+,,1118,PIDIE JAYA,1,-,,-,,,,30,23,1,-,-,-
+,,1172,"KOTA
+SABANG",1,-,,-,,1,,,23,1,-,-,-
+,,1173,"KOTA
+LANGSA",2,-,,2.056,,,,166,23,1,-,-,-
+,,1174,"KOTA LHOK-
+SEUMAWE",1,-,,-,,,,20,23,1,-,-,-
+,,1175,"KOTA SUBU-
+LUSSALAM",3,-,,3.347,,,,,23,1,-,-,-
+12,"SUMA-
+TERA
+UTARA",1201,NIAS,1,-,,-,,,,3,23,1,-,-,-
+,,1202,"MANDAILING
+NATAL",1,-,,300,,,,60,23,1,10,2,1
+,,1203,"TAPANULI
+SELATAN",1,-,-,-,,,,3,23,1,-,-,-
+,,1207,"LABUHAN
+BATU",1,-,,125,,,,,23,1,-,-,-
+,,1208,ASAHAN,6,-,,2.510,,,,529,23,1,1,2,-
+,,1212,"DELI SER-
+DANG",1,-,,-,1,,,,23,1,-,-,-
+,,1213,LANGKAT,2,-,,500,,,,606,23,1,-,-,-
+,,1217,SAMOSIR,2,1,1,40,4,,4,,23,1,-,-,-
+,,1219,BATU BARA,1,-,,-,,,,1.048,23,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,24,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",24,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,24,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),24,1,(13),(14),(15)
+,,1223,"LABUHAN
+BATU UTARA",1,5,,744,27,,28,114,24,1,-,-,-
+,,1275,KOTA MEDAN,4,-,,14.843,,,,4.254,24,1,-,-,-
+,,1277,"KOTA
+PADANG
+SIDEMPUAN",1,-,,-,8,,,145,24,1,-,-,-
+13,"SUMA-
+TERA
+BARAT",1302,"PESISIR
+SELATAN",1,-,,710,,,,546,24,1,-,-,-
+,,1306,"PADANG
+PARIAMAN",3,3,2,-,5,,1,545,24,1,-,1,-
+,,1307,AGAM,3,-,1,77,5,9,,7,24,1,1,1,-
+,,1308,"LIMA PULUH
+KOTA",6,2,1,7.602,62,,2,480,24,1,1,-,-
+,,1309,PASAMAN,2,-,,200,1,,,,24,1,-,1,-
+,,1310,"SOLOK
+SELATAN",5,1,,18.340,56,18,44,4.208,24,1,7,5,1
+,,1311,"DHARMAS-
+RAYA",2,1,,300,,,,30,24,1,-,-,-
+,,1312,"PASAMAN
+BARAT",2,1,,-,,2,,45,24,1,-,-,-
+,,1373,"KOTA
+SAWAHL-
+UNTO",2,1,-,5,,,,2,24,1,-,-,-
+,,1375,"KOTA BUKIT-
+TINGGI",2,-,2,545,,,,117,24,1,-,-,-
+,,1376,"KOTA PAYA-
+KUMBUH",1,-,,-,,,,56,24,1,-,-,-
+14,RIAU,1401,"KUANTAN
+SINGINGI",2,-,,1.645,42,,70,2.258,24,1,-,-,-
+,,1402,"INDRAGIRI
+HULU",2,-,,-,,,,213,24,1,-,-,-
+,,1404,PELALAWAN,3,-,,7.174,,,,2.489,24,1,-,-,-
+,,1406,KAMPAR,1,-,,39.635,,,,1.319,24,1,-,-,-
+,,1407,ROKAN HULU,4,-,,10.661,,,,4.252,24,1,-,-,-
+,,1409,ROKAN HILIR,3,-,,35,,,,738,24,1,-,-,-
+,,1471,"KOTA PEKAN-
+BARU",1,1,,-,,,,,24,1,-,-,-
+15,JAMBI,1501,KERINCI,2,-,,473,,,,111,24,1,-,-,-
+,,1502,MERANGIN,3,-,,-,,,,772,24,1,-,-,-
+,,1503,"SAROLAN-
+GUN",4,-,,16.970,,,,3.127,24,1,1,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,25,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",25,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,25,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),25,1,(13),(14),(15)
+,,1504,BATANGHARI,1,-,,50,,,,,25,1,2,-,-
+,,1506,"TANJUNG
+JABUNG
+TIMUR",2,-,,220,,,,28,25,1,-,-,-
+16,"SUMA-
+TERA
+SELATAN",1601,"OGAN
+KOMERING
+ULU",4,-,,150,,,,1.446,25,1,1,-,-
+,,1602,"OGAN
+KOMERING
+ILIR",3,-,,444,,,,347,25,1,-,-,-
+,,1603,MUARA ENIM,1,-,,95,,,,19,25,1,-,-,-
+,,1604,LAHAT,2,-,,-,7,,73,,25,1,1,1,-
+,,1605,MUSI RAWAS,2,-,,2.010,,,,291,25,1,-,-,1
+,,1606,"MUSI BANYU
+ASIN",5,-,-,5.505,,,,441,25,1,1,1,-
+,,1607,BANYUASIN,2,-,,-,,,,164,25,1,-,-,-
+,,1608,"OGAN
+KOMERING
+ULU SELATAN",6,2,1,-,1,,,38,25,1,4,-,-
+,,1610,OGAN ILIR,2,-,,675,,,,135,25,1,1,-,-
+,,1611,"EMPAT
+LAWANG",1,-,,90,27,,,50,25,1,-,-,-
+,,1612,"PENUKAL
+ABAB LEMA-
+TANG ILIR",1,-,,-,,,,20,25,1,-,-,-
+,,1613,"MUSI RAWAS
+UTARA",1,-,,12.860,,,,1.802,25,1,-,-,-
+17,"BENG-
+KULU",1701,"BENGKULU
+SELATAN",1,-,,90,1,2,15,,25,1,-,-,-
+,,1702,"REJANG
+LEBONG",1,-,,815,6,17,15,,25,1,1,1,-
+,,1703,"BENGKULU
+UTARA",1,-,,3.888,,,,942,25,1,-,-,2
+,,1704,KAUR,1,1,,4.851,65,151,468,850,25,1,7,4,1
+,,1705,SELUMA,4,1,,3.645,12,,30,169,25,1,-,3,1
+,,1706,MUKOMUKO,1,-,,1.609,12,,13,300,25,1,-,-,-
+,,1707,LEBONG,1,-,,5.870,3,,,,25,1,3,-,1
+,,1708,KEPAHIANG,2,4,,1.871,33,17,230,356,25,1,2,-,1
+,,1709,"BENGKULU
+TENGAH",1,21,4,21.163,63,246,156,125,25,1,9,3,-
+,,1771,"KOTA BENG-
+KULU",2,3,,30.012,39,383,54,4.714,25,1,5,7,1
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,26,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",26,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,26,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),26,1,(13),(14),(15)
+18,"LAM-
+PUNG",1801,"LAMPUNG
+BARAT",3,-,,25,1,,30,8,26,1,-,-,-
+,,1802,TANGGAMUS,2,-,,-,18,17,,437,26,1,-,-,-
+,,1805,"LAMPUNG
+TENGAH",1,-,,660,,,,101,26,1,-,-,-
+,,1807,WAY KANAN,1,-,,557,,,,3,26,1,-,-,-
+,,1808,"TULANG
+BAWANG",1,1,,8.940,,,,1.277,26,1,-,-,-
+,,1809,PESAWARAN,1,1,,-,,,,1.212,26,1,-,-,-
+,,1871,"KOTA
+BANDAR
+LAMPUNG",1,-,,-,2,,,2.528,26,1,4,-,-
+19,"KEPU-
+LAUAN
+BANGKA
+BE-
+LITUNG",1901,BANGKA,4,-,1,478,,,116,77,26,1,1,1,-
+,,1902,BELITUNG,3,-,,2.829,,,155,300,26,1,-,-,-
+,,1904,"BANGKA
+TENGAH",1,-,,-,,,,,26,1,-,-,-
+,,1905,"BANGKA
+SELATAN",1,-,,-,,,,31,26,1,-,-,-
+,,1971,"KOTA PANG-
+KALPINANG",3,-,,157,,,,119,26,1,-,-,-
+21,"KEPU-
+LAUAN
+RIAU",2102,BINTAN,1,-,,1.400,,,1,130,26,1,3,1,-
+31,"DKI
+JAKARTA",3171,"KOTA JAKAR-
+TA SELATAN",1,2,,2.258,,,,,26,1,-,-,-
+,,3172,"KOTA JAKAR-
+TA TIMUR",1,-,,-,,,,,26,1,-,-,-
+32,"JAWA
+BARAT",3201,BOGOR,18,1,,6.316,3,11,45,698,26,1,1,2,-
+,,3202,SUKABUMI,5,-,,191,9,5,20,33,26,1,-,-,-
+,,3203,CIANJUR,1,-,,26,,,,3,26,1,-,-,-
+,,3204,BANDUNG,8,3,,156.025,8,10,,20.297,26,1,12,53,-
+,,3205,GARUT,15,-,-,380,5,3,50,380,26,1,4,3,-
+,,3208,KUNINGAN,4,-,,95,1,,17,10,26,1,-,-,1
+,,3209,CIREBON,11,-,-,19.363,-,-,-,4.257,26,1,3,8,-
+,,3210,"MAJALENG-
+KA",7,-,-,-,,,13,308,26,1,2,4,-
+,,3211,SUMEDANG,2,-,,-,,,,295,26,1,1,1,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,27,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",27,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,27,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),27,1,(13),(14),(15)
+,,3212,INDRAMAYU,1,-,,25.833,,,,8.271,27,1,-,-,-
+,,3213,SUBANG,1,-,,-,,,,523,27,1,-,-,-
+,,3215,KARAWANG,3,-,,931,,,,248,27,1,2,3,-
+,,3216,BEKASI,8,-,,7.515,,,,978,27,1,1,-,-
+,,3217,"BANDUNG
+BARAT",4,-,,752,9,,10,55,27,1,-,1,-
+,,3271,KOTA BOGOR,5,-,1,581,,,,78,27,1,-,1,-
+,,3272,"KOTA SUKA-
+BUMI",1,-,,-,,,,7,27,1,-,-,-
+,,3273,"KOTA BAND-
+UNG",1,-,,1.650,,,,123,27,1,1,-,-
+,,3275,KOTA BEKASI,4,-,,2.432,,,300,4,27,1,-,-,-
+,,3278,"KOTA TASIK-
+MALAYA",6,-,,19,2,,,15,27,1,-,-,-
+33,"JAWA
+TENGAH",3301,CILACAP,6,-,4,875,,,4,53,27,1,-,-,-
+,,3302,BANYUMAS,4,-,,154,,,7,53,27,1,-,-,-
+,,3303,"PURBAL-
+INGGA",2,-,,581,,3,,91,27,1,-,-,-
+,,3304,"BANJARNE-
+GARA",1,-,,-,,,,,27,1,-,-,-
+,,3305,KEBUMEN,2,-,,4.388,,,,48,27,1,-,-,-
+,,3306,PURWOREJO,3,-,,40.407,,,3,3.303,27,1,2,-,-
+,,3307,WONOSOBO,2,-,,20,,,1,3,27,1,-,-,-
+,,3308,MAGELANG,3,4,2,70,,,,16,27,1,-,-,-
+,,3309,BOYOLALI,3,-,,12,,,,4,27,1,-,-,-
+,,3310,KLATEN,1,-,,40,,,,,27,1,-,-,-
+,,3311,SUKOHARJO,1,-,,1.455,,,,181,27,1,-,-,-
+,,3312,WONOGIRI,3,-,,269,,,,83,27,1,-,-,-
+,,3314,SRAGEN,4,-,,800,,,,174,27,1,-,-,-
+,,3315,GROBOGAN,7,-,,125,,30,,867,27,1,1,2,-
+,,3316,BLORA,2,-,,40,,,,387,27,1,-,-,-
+,,3317,REMBANG,1,-,,-,,,,100,27,1,-,-,-
+,,3318,PATI,12,-,,11.125,-,-,6,3.057,27,1,1,-,-
+,,3319,KUDUS,3,1,,2.326,,,,597,27,1,-,-,-
+,,3320,JEPARA,6,-,1,-,,,,268,27,1,-,-,-
+,,3321,DEMAK,3,-,,7,,,,180,27,1,-,-,-
+,,3322,SEMARANG,2,1,1,-,,,,,27,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,28,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",28,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,28,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),28,1,(13),(14),(15)
+,,3323,"TEMANGGU-
+NG",5,-,,39,,,,9,28,1,-,-,-
+,,3324,KENDAL,7,-,2,-,,,,67,28,1,1,-,-
+,,3325,BATANG,1,-,,950,,,,,28,1,-,-,-
+,,3326,PEKALONGAN,2,-,,10.644,,,,1.364,28,1,4,-,-
+,,3327,PEMALANG,1,6,,-,,,,,28,1,-,-,-
+,,3328,TEGAL,2,-,,9.390,,,,2.403,28,1,-,-,-
+,,3329,BREBES,7,-,-,-,1,,1,500,28,1,-,-,-
+,,3372,"KOTA
+SURAKARTA",2,-,,555,,,,518,28,1,-,-,-
+,,3374,"KOTA SEMA-
+RANG",9,1,,14.289,,2,4,174,28,1,-,-,-
+,,3375,"KOTA PEKA-
+LONGAN",2,-,,908,,,5,,28,1,-,-,-
+,,3376,KOTA TEGAL,2,-,,7,,,,356,28,1,-,-,-
+34,"DI YOGY-
+AKARTA",3401,"KULONPRO-
+GO",1,-,,-,,,19,,28,1,-,-,-
+,,3402,BANTUL,2,2,1,270,,,2,,28,1,5,-,-
+,,3403,"GUNUNG-
+KIDUL",2,-,,325,,,,46,28,1,4,1,-
+,,3404,SLEMAN,1,-,,-,,,,3,28,1,-,-,-
+35,"JAWA
+TIMUR",3502,PONOROGO,3,-,,543,1,,1,6,28,1,1,1,-
+,,3503,TRENGGALEK,2,-,,9.058,,,29,527,28,1,-,1,-
+,,3504,"TULUNGA-
+GUNG",1,-,,-,,,,113,28,1,-,-,-
+,,3505,BLITAR,1,-,,1.500,,,,,28,1,-,-,-
+,,3506,KEDIRI,2,-,,468,,,,90,28,1,-,-,-
+,,3508,LUMAJANG,4,-,,2.024,,,,392,28,1,-,-,-
+,,3509,JEMBER,6,-,,9.030,,,,665,28,1,1,3,-
+,,3510,"BANYU-
+WANGI",5,1,-,-,,,,58,28,1,-,-,-
+,,3512,SITUBONDO,1,-,,-,,,,,28,1,-,-,-
+,,3513,"PROBOL-
+INGGO",1,-,,1.610,,,,,28,1,-,-,-
+,,3514,PASURUAN,6,-,,20.550,,1,,3.804,28,1,-,-,-
+,,3515,SIDOARJO,2,-,,2.490,,,,498,28,1,-,-,-
+,,3516,MOJOKERTO,12,-,,2.118,1,9,7,1.176,28,1,-,-,1
+,,3517,JOMBANG,5,-,-,12.299,,,,2.522,28,1,-,-,-
+,,3518,NGANJUK,5,-,,884,1,6,,967,28,1,-,-,-
+,,3519,MADIUN,3,-,,17.328,2,,,4.321,28,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,29,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",29,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,29,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),29,1,(13),(14),(15)
+,,3520,MAGETAN,1,-,,1.797,,,,494,29,1,-,-,-
+,,3521,NGAWI,1,-,,22.450,,,,3.087,29,1,-,-,-
+,,3522,BOJONEGORO,5,-,,18.485,,1,,3.716,29,1,16,13,-
+,,3523,TUBAN,2,-,,3.240,,,,682,29,1,5,7,-
+,,3524,LAMONGAN,5,-,,3.452,,,,434,29,1,3,-,-
+,,3525,GRESIK,17,2,-,1.040,,,,8.440,29,1,11,3,2
+,,3526,BANGKALAN,2,-,,6.315,,,,600,29,1,-,-,-
+,,3527,SAMPANG,1,-,1,-,,,,,29,1,-,-,-
+,,3528,PAMEKASAN,2,-,,-,,,36,1.138,29,1,-,-,-
+,,3577,"KOTA
+MADIUN",1,-,,-,,,,8,29,1,-,-,-
+,,3578,"KOTA SURA-
+BAYA",1,1,,-,,,,,29,1,-,-,-
+,,3579,KOTA BATU,2,-,,-,,,2,,29,1,-,-,-
+36,BANTEN,3602,LEBAK,3,-,,563,96,,25,470,29,1,4,3,-
+,,3604,SERANG,3,-,,2.498,,,149,200,29,1,1,-,-
+,,3671,"KOTA TAN-
+GERANG",1,-,,688,,,,,29,1,-,-,-
+,,3672,"KOTA
+CILEGON",2,-,,3.785,1,,,2.155,29,1,-,-,-
+51,BALI,5101,JEMBRANA,2,-,,6,,,,,29,1,-,-,-
+,,5103,BADUNG,1,-,,-,,,,1,29,1,-,-,-
+,,5107,"KARANGAS-
+EM",2,-,,-,,2,,8,29,1,-,-,-
+52,"NUSA
+TENG-
+GARA
+BARAT",5201,"LOMBOK
+BARAT",1,-,,75,,,,,29,1,-,-,-
+,,5202,"LOMBOK
+TENGAH",2,-,,248,,,,417,29,1,-,-,-
+,,5204,SUMBAWA,2,-,,145,,,,45,29,1,-,-,-
+,,5205,DOMPU,2,-,,6.245,3,,,1.406,29,1,-,-,-
+,,5206,BIMA,4,-,,1.550,15,,250,593,29,1,4,-,-
+,,5207,"SUMBAWA
+BARAT",4,-,-,825,,,,204,29,1,-,-,-
+,,5208,"LOMBOK
+UTARA",1,-,,158,,,,52,29,1,-,-,-
+,,5272,KOTA BIMA,3,-,,5.820,,,,1.112,29,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,30,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",30,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,30,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),30,1,(13),(14),(15)
+53,"NUSA
+TENG-
+GARA
+TIMUR",5309,"FLORES
+TIMUR",1,-,,-,1,10,,,30,1,1,1,-
+61,"KALIM-
+ANTAN
+BARAT",6101,SAMBAS,1,-,,890,,,,174,30,1,-,-,-
+,,6103,LANDAK,3,1,,16.213,,,1,4.593,30,1,-,-,-
+,,6104,MEMPAWAH,1,-,,2.948,,,,,30,1,-,-,-
+,,6105,SANGGAU,4,-,,4.317,,,8,348,30,1,-,-,-
+,,6108,"KAPUAS
+HULU",1,-,,-,,,,40,30,1,-,-,-
+,,6109,SEKADAU,5,-,,3.131,1,,,1.592,30,1,-,-,-
+,,6110,MELAWI,1,-,,1.157,,4,,168,30,1,-,-,-
+,,6112,KUBU RAYA,1,-,,2.750,,,,,30,1,-,-,-
+,,6172,"KOTA SING-
+KAWANG",2,-,,244,,,,,30,1,-,-,-
+62,"KALIM-
+ANTAN
+TENGAH",6201,"KOTAWAR-
+INGIN BARAT",3,-,,247,,,,80,30,1,-,1,-
+,,6202,"KOTAWAR-
+INGIN TIMUR",3,-,,2.445,,,,101,30,1,-,-,-
+,,6203,KAPUAS,3,-,,9.865,,,,1.473,30,1,6,2,-
+,,6204,"BARITO
+SELATAN",1,-,,51,,,,15,30,1,-,-,-
+,,6205,"BARITO
+UTARA",2,-,,2.440,,,,976,30,1,6,6,3
+,,6206,SUKAMARA,1,-,,17,,1,,,30,1,-,-,-
+,,6207,LAMANDAU,3,-,,372,,,,4,30,1,1,1,-
+,,6209,KATINGAN,1,-,,291,,,,1.205,30,1,11,9,2
+,,6210,"PULANG
+PISAU",6,-,,10.305,-,-,-,3.772,30,1,44,24,10
+,,6211,"GUNUNG
+MAS",2,-,,65.558,,,,1.000,30,1,-,-,-
+,,6213,"MURUNG
+RAYA",4,-,,3.977,,,,716,30,1,2,1,-
+,,6271,KOTA PALANGKARAYA,1,-,,-,,,,2,30,1,-,-,-
+63,"KALIM-
+ANTAN
+SELATAN",6302,KOTABARU,1,-,,24,1,,,250,30,1,-,-,-
+,,6305,TAPIN,6,-,,3.331,,,,752,30,1,-,-,-
+,,6309,TABALONG,2,-,,96,,,,46,30,1,-,-,-
+,,6310,"TANAH
+BUMBU",1,-,,16.611,,,,39,30,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,31,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",31,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,31,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),31,1,(13),(14),(15)
+,,6311,BALANGAN,5,-,,1.727,,,,284,31,1,-,-,-
+,,6371,"KOTA BAN-
+JARMASIN",2,-,-,9,-,-,-,52,31,1,-,-,-
+,,6372,"KOTA BAN-
+JARBARU",3,-,,250,,,,53,31,1,-,-,-
+64,"KALIM-
+ANTAN
+TIMUR",6401,PASER,1,-,,499,,,,,31,1,2,1,1
+,,6403,"KUTAI KER-
+TANEGARA",1,-,,16.480,18,,3,,31,1,-,1,-
+,,6409,"PENAJAM
+PASER UTARA",8,-,,2.760,,,,350,31,1,1,1,1
+,,6472,"KOTA SAMA-
+RINDA",1,-,,56.133,,,,626,31,1,-,-,-
+,,6474,"KOTA
+BONTANG",1,-,,10.065,,,,,31,1,-,-,-
+65,"KALIM-
+ANTAN
+UTARA",6501,MALINAU,1,-,,-,,,,258,31,1,2,1,-
+,,6502,BULUNGAN,1,-,,-,,,3,400,31,1,-,-,-
+,,6504,NUNUKAN,3,-,,-,,8,2,114,31,1,-,-,-
+71,"SU-
+LAWESI
+UTARA",7102,MINAHASA,1,-,,420,,,6,78,31,1,-,-,-
+,,7103,"KEPULAUAN
+SANGIHE",1,-,,400,,,,,31,1,-,-,-
+,,7107,"BOLAANG
+MONGON-
+DOW UTARA",2,-,,4.215,,,1,604,31,1,-,-,-
+,,7171,"KOTA
+MANADO",1,4,,12.366,53,20,819,,31,1,-,-,-
+72,"SU-
+LAWESI
+TENGAH",7202,BANGGAI,2,-,,7.250,,,,1.000,31,1,-,-,-
+,,7203,MOROWALI,1,1,,2.277,7,,,114,31,1,-,-,-
+,,7204,POSO,1,-,,-,,,,119,31,1,-,-,-
+,,7205,DONGGALA,1,-,,900,10,,,975,31,1,-,-,-
+,,7206,TOLI-TOLI,2,-,,24,4,,,,31,1,-,-,-
+,,7207,BUOL,1,-,,696,,,,169,31,1,-,-,-
+,,7208,"PARIGI
+MOUTONG",2,-,,1.684,8,,,206,31,1,-,-,1
+,,7210,SIGI,6,4,30,6.886,419,7,80,709,31,1,8,4,5
+,,7212,"MOROWALI
+UTARA",2,-,1,373,5,,,112,31,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,32,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",32,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,32,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),32,1,(13),(14),(15)
+73,"SU-
+LAWESI
+SELATAN",7301,SELAYAR,1,2,,4.564,125,56,111,,32,1,2,-,-
+,,7302,BULUKUMBA,1,-,,-,,,,17,32,1,-,-,-
+,,7304,JENEPONTO,1,16,,3.276,500,53,384,,32,1,26,-,-
+,,7305,TAKALAR,1,2,,7.975,,,3,1.595,32,1,-,-,-
+,,7306,GOWA,1,57,46,2.121,10,,,604,32,1,-,-,-
+,,7308,MAROS,2,6,,183.341,3,1,9,17.122,32,1,-,1,-
+,,7309,"PANGKAJENE
+KEPULAUAN",1,1,1,-,,,,15,32,1,1,1,-
+,,7310,BARRU,4,-,-,-,,,,,32,1,5,-,1
+,,7311,BONE,1,-,,-,,,,,32,1,-,-,-
+,,7312,SOPPENG,2,1,,31.435,,,,350,32,1,-,-,-
+,,7313,WAJO,7,-,,62.349,2,,,12.130,32,1,74,42,24
+,,7314,"SIDENRENG
+RAPPANG",4,-,,16.695,,3,5,10.794,32,1,9,1,-
+,,7315,PINRANG,2,-,,3.000,,,578,,32,1,-,-,-
+,,7316,ENREKANG,1,-,,300,,,,320,32,1,-,-,-
+,,7317,LUWU,6,-,,8.310,2,1,,1.757,32,1,15,19,-
+,,7318,TANA TORAJA,2,-,1,500,1,,,4,32,1,-,-,-
+,,7322,LUWU UTARA,1,-,,12.437,,,2,,32,1,-,-,-
+,,7325,LUWU TIMUR,7,-,,12.827,,,,390,32,1,1,-,-
+,,7371,"KOTA
+MAKASSAR",1,1,,10.328,,,,477,32,1,-,-,-
+74,"SU-
+LAWESI
+TENGGA-
+RA",7403,KONAWE,1,2,,127.357,1.020,1.016,4.249,,32,1,-,41,-
+,,7405,"KONAWE
+SELATAN",1,-,,6.291,,,,,32,1,-,-,-
+,,7408,"KOLAKA
+UTARA",1,-,,4,,,1,3,32,1,-,-,-
+,,7409,"BUTON
+UTARA",1,-,,420,,,,,32,1,-,-,-
+,,7410,"KONAWE
+UTARA",1,-,,28.900,370,,,1.837,32,1,30,5,8
+,,7414,"BUTON
+TENGAH",1,-,,138,,,46,,32,1,-,-,-
+,,7471,"KOTA
+KENDARI",2,-,,2.084,,,,,32,1,-,-,-
+75,GORONTALO,7501,BOALEMO,2,-,,5.780,1,4,,672,32,1,2,1,-
+,,7503,POHUWATO,1,-,,-,,,,45,32,1,-,-,-
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten/
+Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,33,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+&
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",33,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,33,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),33,1,(13),(14),(15)
+76,"SU-
+LAWESI
+BARAT",7603,MAMASA,1,-,,-,,,,20,33,1,-,-,-
+,,7604,MAMUJU,1,-,,1.073,69,23,142,,33,1,2,1,-
+,,7605,PASANGKAYU,2,-,,50,,,3,40,33,1,-,-,-
+,,7606,"MAMUJU
+TENGAH",2,-,,5.696,2,,,15,33,1,-,-,-
+81,MALUKU,8101,"MALUKU
+TENGGARA
+BARAT",1,-,,75,,,,,33,1,-,-,-
+,,8103,"MALUKU
+TENGAH",1,-,,-,,,,,33,1,-,-,-
+,,8106,"SERAM BAGI-
+AN BARAT",2,-,,256,,,,37,33,1,-,-,-
+,,8107,"SERAM BAGI-
+AN TIMUR",6,-,,322,,,1,368,33,1,1,-,-
+,,8108,"MALUKU
+BARAT DAYA",1,-,,2.236,,,40,125,33,1,1,-,-
+82,"MALUKU
+UTARA",8202,"HALMAHERA
+TENGAH",2,-,,-,,,,343,33,1,1,3,1
+,,8205,"HALMAHERA
+UTARA",2,-,,-,,,,184,33,1,4,2,1
+,,8207,"PULAU
+MOROTAI",2,-,,355,,,,613,33,1,-,-,-
+,,8208,"PULAU
+TALIABU",5,-,,404,2,,,155,33,1,-,-,-
+91,"PAPUA
+BARAT",9103,"TELUK
+WONDAMA",2,-,,4.209,,,,56,33,1,-,-,-
+,,9104,"TELUK
+BINTUNI",2,-,,575,,,,215,33,1,-,-,-
+,,9105,MANOKWARI,5,-,,1.698,3,1,,196,33,1,-,-,-
+,,9107,SORONG,1,-,,-,,,,550,33,1,-,-,-
+94,PAPUA,9403,JAYAPURA,3,187,983,179.016,712,6,400,2.418,33,1,10,18,3
+,,9404,NABIRE,2,-,,1.815,1,,,,33,1,-,-,-
+,,9417,"PEGUNUN-
+GAN
+BINTANG",2,-,,1.210,,,,,33,1,4,-,2
+,,9418,TOLIKARA,1,6,,120,,,,140,33,1,-,1,-
+,,9419,SARMI,2,-,,-,,,518,,33,1,3,5,-
+,,9471,"KOTA
+JAYAPURA",2,1,,7.375,1,,,1.175,33,1,-,-,-
+,,,,,,,,,,,,33,1,,,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,34,1,,,
+,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan","Fasilitas
+Peribada-
+tan","Fasilitas
+Kesehatan",34,1,,,
+,,,Jiwa,,,Unit,,,,,,34,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),34,1,,,
+11,ACEH,63,-,8,1.470,133,69,197,4,5,-,34,1,,,
+12,"SUMATERA
+UTARA",32,-,5,184,73,69,229,-,4,1,34,1,,,
+13,SUMATERA BARAT,47,-,12,977,31,62,206,2,1,-,34,1,,,
+14,RIAU,2,-,7,101,19,53,17,3,-,-,34,1,,,
+15,JAMBI,4,-,-,120,10,-,69,-,1,2,34,1,,,
+16,"SUMATERA
+SELATAN",16,1,3,2.083,149,22,296,2,3,2,34,1,,,
+17,BENGKULU,2,1,3,-,-,1,4,-,-,-,34,1,,,
+18,LAMPUNG,7,-,-,20,30,46,221,1,-,-,34,1,,,
+19,"KEPULAUAN
+BANGKA
+BELITUNG",6,-,-,41,2,2,36,2,-,-,34,1,,,
+21,KEPULAUAN RIAU,7,-,1,35,2,11,9,-,-,-,34,1,,,
+31,DKI JAKARTA,3,1,1,68,-,-,-,-,1,-,34,1,,,
+32,JAWA BARAT,252,3,43,17.055,400,1.131,7.315,19,14,5,34,1,,,
+33,JAWA TENGAH,421,4,101,8.157,736,1.513,7.916,62,31,3,34,1,,,
+34,DI YOGYAKARTA,14,-,26,454,-,9,229,6,4,-,34,1,,,
+35,JAWA TIMUR,267,10,39,9.714,408,2.269,5.631,37,38,8,34,1,,,
+36,BANTEN,22,-,7,341,52,13,358,1,4,1,34,1,,,
+51,BALI,20,-,1,-,8,1,70,1,13,-,34,1,,,
+52,"NUSA TENGGARA
+BARAT",22,-,19,1.740,109,118,241,8,2,-,34,1,,,
+53,"NUSA TENGGARA
+TIMUR",12,-,4,3.814,184,20,814,3,3,-,34,1,,,
+61,"KALIMANTAN
+BARAT",7,-,-,88,107,18,83,2,-,1,34,1,,,
+62,"KALIMANTAN
+TENGAH",10,-,1,37,5,3,49,-,1,-,34,1,,,
+63,"KALIMANTAN
+SELATAN",58,-,3,1.562,90,81,311,3,4,-,34,1,,,
+64,"KALIMANTAN
+TIMUR",2,-,-,4,1,-,3,1,-,-,34,1,,,
+65,"KALIMANTAN
+UTARA",1,-,-,-,-,1,2,-,-,-,34,1,,,
+71,SULAWESI UTARA,6,1,1,5,52,-,98,2,3,1,34,1,,,
+73,"SULAWESI
+SELATAN",67,-,4,1.695,126,110,657,6,3,-,34,1,,,
+74,"SULAWESI
+TENGGARA",4,-,-,15,1,83,9,2,-,-,34,1,,,
+75,GORONTALO,2,-,2,21,1,2,-,-,-,-,34,1,,,
+76,SULAWESI BARAT,4,-,-,-,2,20,38,-,-,-,34,1,,,
+81,MALUKU,7,-,-,326,-,23,231,3,3,-,34,1,,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,35,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",35,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,35,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),35,1,(13),(14),
+11,ACEH,1102,ACEH SINGKIL,4,-,-,76,6,2,10,-,35,1,-,-,
+,,1103,"ACEH
+SELATAN",4,-,-,-,11,1,-,1,35,1,-,-,
+,,1104,"ACEH TENG-
+GARA",2,-,-,25,1,5,2,-,35,1,1,-,
+,,1105,ACEH TIMUR,2,-,-,105,10,5,5,1,35,1,1,-,
+,,1106,"ACEH
+TENGAH",4,-,-,5,2,-,6,-,35,1,-,-,
+,,1107,ACEH BARAT,5,-,-,187,22,1,35,-,35,1,-,-,
+,,1108,ACEH BESAR,3,-,-,36,2,2,3,-,35,1,-,-,
+,,1109,PIDIE,1,-,-,15,2,2,2,-,35,1,-,-,
+,,1110,BIREUEN,7,-,-,141,11,16,16,1,35,1,1,-,
+,,1111,ACEH UTARA,6,-,-,157,25,4,25,1,35,1,-,-,
+,,1112,"ACEH BARAT
+DAYA",1,-,-,100,-,21,-,-,35,1,-,-,
+,,1113,GAYO LUES,4,-,-,336,25,6,35,-,35,1,-,-,
+,,1115,NAGAN RAYA,3,-,-,6,-,3,6,-,35,1,-,-,
+,,1116,ACEH JAYA,2,-,-,3,1,-,1,-,35,1,-,-,
+,,1117,"BENER
+MERIAH",8,-,8,155,7,1,41,-,35,1,1,-,
+,,1118,PIDIE JAYA,3,-,-,61,1,-,3,-,35,1,1,-,
+,,1171,"KOTA BANDA
+ACEH",1,-,-,5,1,-,-,-,35,1,-,-,
+,,1172,"KOTA
+SABANG",1,-,-,5,-,-,1,-,35,1,-,-,
+,,1173,KOTA LANGSA,1,-,-,31,3,-,3,-,35,1,-,-,
+,,1175,"KOTA SUBU-
+LUSSALAM",1,-,-,21,3,-,3,-,35,1,-,-,
+12,"SUMA-
+TERA
+UTARA",1202,"MANDAILING
+NATAL",1,-,-,-,1,-,12,-,35,1,-,-,
+,,1203,"TAPANULI
+SELATAN",1,-,-,-,-,-,2,-,35,1,-,-,
+,,1205,"TAPANULI
+UTARA",1,-,-,-,-,-,2,-,35,1,-,-,
+,,1207,"LABUHAN
+BATU",1,-,-,50,5,-,5,-,35,1,-,-,
+,,1208,ASAHAN,6,-,2,-,4,12,30,-,35,1,2,1,
+,,1210,DAIRI,4,-,-,31,6,10,41,-,35,1,-,-,
+,,1211,KARO,1,-,2,-,4,-,28,-,35,1,-,-,
+,,1212,"DELI SER-
+DANG",3,-,-,-,12,11,33,-,35,1,-,-,
+,,1213,LANGKAT,7,-,1,20,2,14,18,-,35,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,36,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",36,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,36,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),36,1,(13),(14),
+,,1218,"SERDANG
+BEDAGAI",1,-,-,55,3,-,8,-,36,1,1,-,
+,,1219,BATU BARA,1,-,-,-,1,17,-,-,36,1,-,-,
+,,1220,"PADANG
+LAWAS
+UTARA",1,-,-,-,35,-,32,-,36,1,-,-,
+,,1222,"LABUHAN
+BATU
+SELATAN",1,-,-,-,-,2,10,-,36,1,-,-,
+,,1275,KOTA MEDAN,2,-,-,28,-,3,5,-,36,1,1,-,
+,,1276,KOTA BINJAI,1,-,-,-,-,-,3,-,36,1,-,-,
+13,"SUMA-
+TERA
+BARAT",1303,SOLOK,2,-,-,-,-,-,3,-,36,1,-,-,
+,,1304,SIJUNJUNG,2,-,-,-,3,-,-,-,36,1,-,-,
+,,1305,"TANAH
+DATAR",6,-,7,17,2,3,2,-,36,1,-,-,
+,,1306,"PADANG
+PARIAMAN",18,-,2,30,7,10,19,1,36,1,-,-,
+,,1307,AGAM,3,-,3,10,-,1,3,-,36,1,-,-,
+,,1308,"LIMA PULUH
+KOTA",3,-,-,-,2,11,14,-,36,1,-,-,
+,,1309,PASAMAN,1,-,-,3,-,-,1,-,36,1,-,-,
+,,1310,"SOLOK
+SELATAN",4,-,-,912,13,29,154,1,36,1,1,-,
+,,1371,"KOTA
+PADANG",6,-,-,5,3,7,8,-,36,1,-,-,
+,,1373,"KOTA
+SAWAHL-
+UNTO",2,-,-,-,1,1,2,-,36,1,-,-,
+14,RIAU,1401,"KUANTAN
+SINGINGI",1,-,-,100,5,-,15,3,36,1,-,-,
+,,1409,ROKAN HILIR,1,-,7,1,14,53,2,-,36,1,-,-,
+15,JAMBI,1502,MERANGIN,1,-,-,-,-,-,29,-,36,1,-,2,
+,,1506,"TANJUNG
+JABUNG
+TIMUR",1,-,-,-,-,-,-,-,36,1,-,-,
+,,1572,"KOTA SUNGAI
+PENUH",2,-,-,120,10,-,40,-,36,1,1,-,
+16,"SUMA-
+TERA
+SELATAN",1603,MUARA ENIM,1,1,-,4,-,1,-,-,36,1,-,-,
+,,1605,MUSI RAWAS,2,-,-,140,6,-,48,-,36,1,-,-,
+,,1606,"MUSI BANYU
+ASIN",1,-,-,85,4,2,11,2,36,1,3,-,
+,,1607,BANYUASIN,2,-,3,-,64,-,50,-,36,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,37,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",37,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,37,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),37,1,(13),(14),
+,,1609,"OGAN
+KOMERING
+ULU TIMUR",1,-,-,-,-,-,9,-,37,1,-,-,
+,,1610,OGAN ILIR,4,-,-,8,4,-,-,-,37,1,-,-,
+,,1612,"PENUKAL
+ABAB LEMA-
+TANG ILIR",2,-,-,16,3,1,3,-,37,1,-,-,
+,,1613,"MUSI RAWAS
+UTARA",2,-,-,1.830,68,18,175,-,37,1,-,-,
+,,1671,"KOTA
+PALEMBANG",1,-,-,-,-,-,-,-,37,1,-,2,
+17,"BENG-
+KULU",1702,"REJANG
+LEBONG",1,1,3,-,-,-,-,-,37,1,-,-,
+,,1708,KEPAHIANG,1,-,-,-,-,1,4,-,37,1,-,-,
+18,LAMPUNG,1801,"LAMPUNG
+BARAT",2,-,-,20,5,-,26,-,37,1,-,-,
+,,1802,TANGGAMUS,1,-,-,-,3,-,8,1,37,1,-,-,
+,,1804,"LAMPUNG
+TIMUR",1,-,-,-,2,-,18,-,37,1,-,-,
+,,1805,"LAMPUNG
+TENGAH",1,-,-,-,4,-,98,-,37,1,-,-,
+,,1808,"TULANG
+BAWANG",2,-,-,-,16,46,71,-,37,1,-,-,
+19,"KEPU-
+LAUAN
+BANGKA
+BELITUNG",1902,BELITUNG,1,-,-,20,1,-,4,-,37,1,-,-,
+,,1903,"BANGKA
+BARAT",1,-,-,-,-,-,17,2,37,1,-,-,
+,,1904,"BANGKA
+TENGAH",2,-,-,-,1,-,11,-,37,1,-,-,
+,,1971,"KOTA PANG-
+KALPINANG",2,-,-,21,-,2,4,-,37,1,-,-,
+21,"KEPU-
+LAUAN
+RIAU",2101,KARIMUN,1,-,-,-,-,-,-,-,37,1,-,-,
+,,2102,BINTAN,2,-,-,-,-,-,6,-,37,1,-,-,
+,,2103,NATUNA,2,-,-,35,1,5,3,-,37,1,-,-,
+,,2104,LINGGA,1,-,1,-,-,-,-,-,37,1,-,-,
+,,2171,KOTA BATAM,1,-,-,-,1,6,-,-,37,1,-,-,
+31,"DKI
+JAKARTA",3171,"KOTA JAKAR-
+TA SELATAN",1,-,1,-,-,-,-,-,37,1,1,-,
+,,3172,"KOTA JAKAR-
+TA TIMUR",1,1,-,-,-,-,-,-,37,1,-,-,
+,,3175,"KOTA JAKAR-
+TA UTARA",1,-,-,68,-,-,-,-,37,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,38,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",38,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,38,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),38,1,(13),(14),
+32,"JAWA
+BARAT",3201,BOGOR,64,-,8,3.072,62,131,624,6,38,1,5,2,
+,,3202,SUKABUMI,24,-,2,718,99,284,319,3,38,1,3,-,
+,,3203,CIANJUR,1,-,-,-,-,1,13,-,38,1,-,-,
+,,3204,BANDUNG,9,-,16,11.689,144,498,4.103,3,38,1,2,2,
+,,3205,GARUT,12,-,-,20,2,62,52,-,38,1,-,1,
+,,3206,"TASIKMA-
+LAYA",4,-,-,3,1,1,7,-,38,1,-,-,
+,,3207,CIAMIS,11,-,1,175,3,20,168,-,38,1,-,-,
+,,3208,KUNINGAN,7,-,1,6,1,2,37,1,38,1,1,-,
+,,3209,CIREBON,10,-,-,6,2,3,22,-,38,1,-,-,
+,,3210,MAJALENGKA,10,-,1,307,5,15,101,2,38,1,2,-,
+,,3211,SUMEDANG,5,-,-,135,5,1,41,-,38,1,-,-,
+,,3212,INDRAMAYU,3,-,1,148,4,-,53,-,38,1,-,-,
+,,3214,"PURWAKAR-
+TA",3,-,-,80,7,-,11,-,38,1,-,-,
+,,3215,KARAWANG,6,1,1,155,7,12,1.394,-,38,1,-,-,
+,,3216,BEKASI,2,-,-,-,22,26,147,-,38,1,-,-,
+,,3217,"BANDUNG
+BARAT",12,1,-,150,12,12,21,1,38,1,-,-,
+,,3218,"PAN-
+GANDARAN",16,-,-,58,5,7,9,-,38,1,-,-,
+,,3271,KOTA BOGOR,22,-,-,175,7,6,73,2,38,1,1,-,
+,,3273,"KOTA BAND-
+UNG",2,-,-,1,2,14,34,-,38,1,-,-,
+,,3275,KOTA BEKASI,1,-,2,-,-,24,36,-,38,1,-,-,
+,,3276,KOTA DEPOK,1,1,5,-,-,-,-,-,38,1,-,-,
+,,3277,KOTA CIMAHI,2,-,-,20,3,-,4,-,38,1,-,-,
+,,3278,"KOTA TASIK-
+MALAYA",25,-,5,137,7,12,46,1,38,1,-,-,
+33,"JAWA
+TENGAH",3301,CILACAP,36,-,-,114,48,119,257,-,38,1,-,-,
+,,3302,BANYUMAS,21,-,4,107,6,15,56,-,38,1,-,-,
+,,3303,"PURBAL-
+INGGA",7,1,1,20,3,34,31,-,38,1,-,-,
+,,3304,"BANJARNE-
+GARA",5,1,1,5,401,659,386,23,38,1,1,-,
+,,3305,KEBUMEN,5,-,2,9,1,2,18,-,38,1,-,-,
+,,3306,PURWOREJO,14,-,3,1.702,7,16,37,-,38,1,1,-,
+,,3307,WONOSOBO,6,-,1,163,2,7,1.026,3,38,1,1,-,
+,,3308,MAGELANG,32,-,1,3.810,17,87,1.742,4,38,1,1,1,
+,,3309,BOYOLALI,21,-,3,338,16,22,447,2,38,1,2,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,39,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",39,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,39,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),39,1,(13),(14),
+,,3310,KLATEN,17,1,10,-,14,32,349,4,39,1,3,-,
+,,3311,SUKOHARJO,7,-,2,-,3,17,239,1,39,1,-,-,
+,,3312,WONOGIRI,23,-,1,76,4,20,218,1,39,1,1,-,
+,,3313,"KARANGA-
+NYAR",7,-,-,145,-,6,100,-,39,1,-,-,
+,,3314,SRAGEN,22,-,24,116,5,11,568,4,39,1,1,-,
+,,3315,GROBOGAN,11,-,2,-,6,-,600,1,39,1,-,1,
+,,3316,BLORA,11,-,-,6,17,22,53,-,39,1,-,-,
+,,3317,REMBANG,1,-,2,-,5,2,124,-,39,1,-,-,
+,,3318,PATI,14,-,2,16,12,-,168,1,39,1,-,-,
+,,3319,KUDUS,8,-,3,86,-,1,244,2,39,1,1,-,
+,,3320,JEPARA,29,-,21,39,21,14,70,1,39,1,1,-,
+,,3321,DEMAK,6,1,1,-,15,-,189,1,39,1,-,-,
+,,3322,SEMARANG,9,-,3,-,4,5,8,-,39,1,1,-,
+,,3323,"TEMANGGU-
+NG",20,-,4,94,1,16,130,-,39,1,-,-,
+,,3324,KENDAL,21,-,1,1.093,44,32,140,1,39,1,1,-,
+,,3326,PEKALONGAN,6,-,-,9,2,2,23,-,39,1,-,-,
+,,3327,PEMALANG,5,-,-,44,21,19,37,2,39,1,1,-,
+,,3328,TEGAL,10,-,2,2,40,257,427,7,39,1,13,1,
+,,3329,BREBES,12,-,-,-,14,79,143,3,39,1,-,-,
+,,3372,"KOTA
+SURAKARTA",2,-,-,-,-,1,1,-,39,1,1,-,
+,,3374,"KOTA SEMA-
+RANG",32,-,7,163,7,16,84,1,39,1,1,-,
+,,3376,KOTA TEGAL,1,-,-,-,-,-,1,-,39,1,-,-,
+34,"DI YOGY-
+AKARTA",3401,"KULONPRO-
+GO",2,-,-,402,-,2,3,-,39,1,-,-,
+,,3402,BANTUL,4,-,-,26,-,-,31,-,39,1,-,-,
+,,3403,"GUNUNG-
+KIDUL",2,-,2,-,-,-,13,-,39,1,-,-,
+,,3404,SLEMAN,6,-,16,26,-,7,180,6,39,1,4,-,
+,,3471,"KOTA YOGY-
+AKARTA",2,-,8,-,-,-,2,-,39,1,-,-,
+35,"JAWA
+TIMUR",3501,PACITAN,2,-,1,-,-,-,31,-,39,1,-,1,
+,,3502,PONOROGO,12,1,-,350,3,7,97,-,39,1,-,-,
+,,3503,TRENGGALEK,9,-,-,-,-,5,50,-,39,1,-,-,
+,,3504,"TULUNGA-
+GUNG",7,-,-,390,-,-,435,1,39,1,1,-,
+,,3505,BLITAR,7,-,-,86,3,-,18,-,39,1,-,-,
+,,3506,KEDIRI,8,-,1,-,13,2,171,-,39,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,40,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",40,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,40,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),40,1,(13),(14),
+,,3507,MALANG,14,1,5,685,5,33,174,-,40,1,1,2,
+,,3508,LUMAJANG,7,-,-,3,2,7,23,1,40,1,1,-,
+,,3509,JEMBER,28,1,6,88,21,35,303,5,40,1,8,1,
+,,3510,"BANYU-
+WANGI",6,-,-,265,3,5,50,-,40,1,-,-,
+,,3511,BONDOWOSO,4,-,1,10,76,164,319,-,40,1,-,-,
+,,3512,SITUBONDO,12,-,2,35,13,4,137,-,40,1,-,-,
+,,3513,"PROBOL-
+INGGO",10,2,2,225,9,13,193,3,40,1,-,-,
+,,3514,PASURUAN,2,-,-,-,-,-,1,-,40,1,-,-,
+,,3515,SIDOARJO,16,-,-,12,-,32,697,1,40,1,-,-,
+,,3516,MOJOKERTO,11,-,2,51,17,13,71,-,40,1,4,-,
+,,3517,JOMBANG,11,-,5,20,6,2,152,3,40,1,13,-,
+,,3518,NGANJUK,15,-,3,230,13,26,221,1,40,1,1,1,
+,,3519,MADIUN,8,-,1,-,5,8,146,-,40,1,-,-,
+,,3520,MAGETAN,5,-,2,129,3,24,127,3,40,1,-,1,
+,,3521,NGAWI,6,-,-,1,4,1,12,1,40,1,-,-,
+,,3522,BOJONEGORO,13,-,3,355,96,1.728,1.423,-,40,1,1,1,
+,,3523,TUBAN,8,2,1,81,20,5,42,2,40,1,1,-,
+,,3524,LAMONGAN,8,-,-,41,41,4,59,4,40,1,-,1,
+,,3525,GRESIK,6,-,-,-,11,24,80,4,40,1,1,-,
+,,3526,BANGKALAN,2,1,-,-,3,-,22,-,40,1,-,-,
+,,3527,SAMPANG,1,-,-,40,-,-,5,-,40,1,-,-,
+,,3528,PAMEKASAN,6,-,-,13,1,-,29,-,40,1,3,-,
+,,3529,SUMENEP,5,-,1,-,31,18,46,-,40,1,-,-,
+,,3571,KOTA KEDIRI,2,1,2,-,-,-,4,1,40,1,-,-,
+,,3573,"KOTA
+MALANG",7,-,1,-,-,3,12,2,40,1,-,-,
+,,3577,"KOTA
+MADIUN",2,-,-,-,-,-,1,-,40,1,-,-,
+,,3578,"KOTA SURA-
+BAYA",1,-,-,-,-,-,-,1,40,1,-,-,
+,,3579,KOTA BATU,6,1,-,6.604,9,106,480,4,40,1,3,-,
+36,BANTEN,3601,PANDEGLANG,2,-,-,116,12,-,27,-,40,1,-,-,
+,,3602,LEBAK,1,-,-,-,25,-,24,-,40,1,-,-,
+,,3603,TANGERANG,3,-,6,200,7,9,281,-,40,1,3,-,
+,,3604,SERANG,15,-,1,25,8,4,26,1,40,1,-,-,
+,,3673,KOTA SERANG,1,-,-,-,-,-,-,-,40,1,1,1,
+51,BALI,5101,JEMBRANA,3,-,-,-,-,-,15,-,40,1,-,-,
+,,5103,BADUNG,7,-,-,-,1,-,29,1,40,1,11,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,41,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",41,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,41,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),41,1,(13),(14),
+,,5104,GIANYAR,2,-,-,-,-,-,2,-,41,1,-,-,
+,,5105,KLUNGKUNG,2,-,-,-,6,-,11,-,41,1,2,-,
+,,5106,BANGLI,1,-,1,-,-,-,-,-,41,1,-,-,
+,,5107,"KARANGAS-
+EM",3,-,-,-,-,-,9,-,41,1,-,-,
+,,5108,BULELENG,2,-,-,-,1,1,4,-,41,1,-,-,
+52,"NUSA
+TENGGA-
+RA BARAT",5201,"LOMBOK
+BARAT",1,-,-,262,-,-,-,-,41,1,-,-,
+,,5202,"LOMBOK
+TENGAH",3,-,2,-,-,18,42,-,41,1,-,-,
+,,5203,"LOMBOK
+TIMUR",2,-,-,16,6,-,10,1,41,1,1,-,
+,,5204,SUMBAWA,3,-,1,230,10,-,54,4,41,1,1,-,
+,,5205,DOMPU,1,-,3,1.100,70,75,75,-,41,1,-,-,
+,,5206,BIMA,1,-,-,-,10,-,-,-,41,1,-,-,
+,,5207,"SUMBAWA
+BARAT",5,-,-,-,9,25,53,1,41,1,-,-,
+,,5208,"LOMBOK
+UTARA",2,-,-,-,4,-,4,2,41,1,-,-,
+,,5271,"KOTA MATA-
+RAM",2,-,13,127,-,-,2,-,41,1,-,-,
+,,5272,KOTA BIMA,2,-,-,5,-,-,1,-,41,1,-,-,
+53,"NUSA
+TENGGA-
+RA TIMUR",5302,"SUMBA
+TIMUR",4,-,2,94,29,20,49,1,41,1,-,-,
+,,5303,KUPANG,1,-,-,-,145,-,-,-,41,1,-,-,
+,,5314,ROTE NDAO,1,-,1,-,-,-,1,-,41,1,-,-,
+,,5315,"MANGGARAI
+BARAT",4,-,-,-,10,-,20,2,41,1,3,-,
+,,5371,"KOTA
+KUPANG",2,-,1,3.720,-,-,744,-,41,1,-,-,
+61,"KALIM-
+ANTAN
+BARAT",6108,"KAPUAS
+HULU",1,-,-,-,1,-,-,-,41,1,-,-,
+,,6109,SEKADAU,1,-,-,48,-,-,10,1,41,1,-,-,
+,,6112,KUBU RAYA,1,-,-,-,93,-,-,-,41,1,-,1,
+,,6171,"KOTA PONTI-
+ANAK",4,-,-,40,13,18,73,1,41,1,-,-,
+62,"KALIM-
+ANTAN
+TENGAH",6201,"KOTAWAR-
+INGIN BARAT",1,-,-,-,-,-,1,-,41,1,-,-,
+,,6203,KAPUAS,6,-,1,37,5,3,43,-,41,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,42,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",42,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,42,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),42,1,(13),(14),
+,,6205,"BARITO
+UTARA",1,-,-,-,-,-,-,-,42,1,-,-,
+,,6207,LAMANDAU,1,-,-,-,-,-,1,-,42,1,-,-,
+,,6213,"MURUNG
+RAYA",1,-,-,-,-,-,4,-,42,1,1,-,
+63,"KALIM-
+ANTAN
+SELATAN",6301,TANAH LAUT,8,-,-,312,11,12,82,-,42,1,1,-,
+,,6302,KOTABARU,1,-,-,16,4,-,-,-,42,1,-,-,
+,,6303,BANJAR,15,-,-,677,48,46,124,-,42,1,2,-,
+,,6304,"BARITO
+KUALA",7,-,-,333,14,11,68,-,42,1,-,-,
+,,6305,TAPIN,5,-,-,21,2,-,4,1,42,1,1,-,
+,,6306,"HULU SUNGAI
+SELATAN",4,-,-,7,-,5,-,-,42,1,-,-,
+,,6308,"HULU SUNGAI
+UTARA",2,-,-,119,-,-,24,2,42,1,-,-,
+,,6309,TABALONG,2,-,2,3,1,-,-,-,42,1,-,-,
+,,6310,"TANAH
+BUMBU",3,-,1,-,3,-,3,-,42,1,-,-,
+,,6311,BALANGAN,5,-,-,20,6,4,1,-,42,1,-,-,
+,,6371,"KOTA BAN-
+JARMASIN",4,-,-,45,-,3,4,-,42,1,-,-,
+,,6372,"KOTA BAN-
+JARBARU",2,-,-,9,1,-,1,-,42,1,-,-,
+64,"KALIM-
+ANTAN
+TIMUR",6401,PASER,1,-,-,-,1,-,2,-,42,1,-,-,
+,,6409,"PENAJAM
+PASER UTARA",1,-,-,4,-,-,1,1,42,1,-,-,
+65,"KALIM-
+ANTAN
+UTARA",6504,NUNUKAN,1,-,-,-,-,1,2,-,42,1,-,-,
+71,"SULAWESI
+UTARA",7101,"BOLAANG
+MONGON-
+DOW",2,-,1,-,51,-,68,2,42,1,3,1,
+,,7102,MINAHASA,3,-,-,-,-,-,30,-,42,1,-,-,
+,,7171,"KOTA
+MANADO",1,1,-,5,1,-,-,-,42,1,-,-,
+73,"SULAWESI
+SELATAN",7302,BULUKUMBA,1,-,-,-,-,-,40,-,42,1,-,-,
+,,7303,BANTAENG,1,-,-,-,-,1,-,-,42,1,-,-,
+,,7304,JENEPONTO,1,-,-,-,4,-,7,-,42,1,-,-,
+,,7305,TAKALAR,3,-,-,6,17,4,20,-,42,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,43,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",43,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,43,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),43,1,(13),(14),
+,,7307,SINJAI,7,-,-,125,9,5,33,-,43,1,-,-,
+,,7309,"PANGKAJENE
+KEPULAUAN",5,-,-,141,10,3,28,1,43,1,-,-,
+,,7310,BARRU,4,-,-,148,1,5,40,-,43,1,-,-,
+,,7311,BONE,4,-,-,220,11,5,52,-,43,1,-,-,
+,,7312,SOPPENG,2,-,-,245,-,20,57,-,43,1,-,-,
+,,7313,WAJO,5,-,-,144,9,13,31,1,43,1,-,-,
+,,7314,"SIDENRENG
+RAPPANG",8,-,-,39,1,13,177,-,43,1,-,-,
+,,7315,PINRANG,3,-,-,-,4,5,29,-,43,1,-,-,
+,,7316,ENREKANG,4,-,4,30,33,16,48,2,43,1,1,-,
+,,7318,TANA TORAJA,12,-,-,246,16,7,29,2,43,1,2,-,
+,,7322,LUWU UTARA,2,-,-,295,8,11,55,-,43,1,-,-,
+,,7325,LUWU TIMUR,3,-,-,56,3,1,10,-,43,1,-,-,
+,,7326,"TORAJA
+UTARA",2,-,-,-,-,1,1,-,43,1,-,-,
+74,"SULAWESI
+TENGGA-
+RA",7404,KOLAKA,1,-,-,-,-,8,-,-,43,1,-,-,
+,,7405,"KONAWE
+SELATAN",1,-,-,15,1,-,6,1,43,1,-,-,
+,,7413,MUNA BARAT,1,-,-,-,-,-,3,1,43,1,-,-,
+,,7415,"BUTON
+SELATAN",1,-,-,-,-,75,-,-,43,1,-,-,
+75,GORONTALO,7502,GORONTALO,2,-,2,21,1,2,-,-,43,1,-,-,
+76,"SULAWESI
+BARAT",7602,"POLEWALI
+MANDAR",3,-,-,-,2,2,38,-,43,1,-,-,
+,,7606,"MAMUJU
+TENGAH",1,-,-,-,-,18,-,-,43,1,-,-,
+81,MALUKU,8102,"MALUKU
+TENGGARA",5,-,-,180,-,22,35,-,43,1,-,-,
+,,8103,"MALUKU
+TENGAH",1,-,-,3,-,1,-,-,43,1,-,-,
+,,8108,"MALUKU
+BARAT DAYA",1,-,-,143,-,-,196,3,43,1,3,-,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,44,1,,,
+,,,"Meninggal
+& Hilang",Luka / Sakit,"Mengungsi
+& Ter-
+dampak","Rumah
+Rusak Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",44,1,,,
+,,,Jiwa,,,Unit,,,,,,44,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),44,1,,,
+11,ACEH,8,-,5,368,4,-,4,1,-,-,44,1,,,
+12,SUMATERA UTARA,9,3,-,15,-,-,9,-,-,-,44,1,,,
+13,SUMATERA BARAT,13,2,3,1.325,4,2,7,-,-,-,44,1,,,
+14,RIAU,2,2,-,15,3,-,-,-,-,-,44,1,,,
+15,JAMBI,2,1,1,7,2,-,-,-,-,-,44,1,,,
+16,"SUMATERA
+SELATAN",8,-,2,3,6,-,1,-,-,-,44,1,,,
+17,BENGKULU,2,-,-,5,-,1,1,-,-,-,44,1,,,
+18,LAMPUNG,5,6,2,-,8,2,8,1,-,-,44,1,,,
+19,"KEPULAUAN
+BANGKA BELITUNG",1,4,1,-,-,-,-,-,-,-,44,1,,,
+21,KEPULAUAN RIAU,4,-,-,15,1,-,9,-,-,-,44,1,,,
+31,DKI JAKARTA,2,-,-,9,-,1,1,-,-,-,44,1,,,
+32,JAWA BARAT,250,18,30,2.997,182,120,335,14,12,1,44,1,,,
+33,JAWA TENGAH,283,10,24,1.526,73,118,472,6,9,1,44,1,,,
+34,DI YOGYAKARTA,6,4,3,7.552,-,3,8,-,-,-,44,1,,,
+35,JAWA TIMUR,46,2,1,198,12,13,32,2,3,1,44,1,,,
+36,BANTEN,2,1,1,499,43,-,20,-,3,-,44,1,,,
+51,BALI,9,7,12,-,5,-,3,1,5,-,44,1,,,
+53,"NUSA TENGGARA
+TIMUR",3,9,3,684,3,-,1,-,-,-,44,1,,,
+61,"KALIMANTAN
+BARAT",2,3,-,-,12,-,-,1,-,-,44,1,,,
+62,"KALIMANTAN
+TENGAH",3,-,-,22,4,-,2,-,-,-,44,1,,,
+63,"KALIMANTAN
+SELATAN",10,20,8,1.224,18,6,1,-,-,-,44,1,,,
+64,"KALIMANTAN
+TIMUR",9,4,-,115,9,5,1,2,-,-,44,1,,,
+65,"KALIMANTAN
+UTARA",1,-,1,42,-,-,14,-,-,-,44,1,,,
+71,SULAWESI UTARA,4,16,19,5,1,1,1,-,-,-,44,1,,,
+72,"SULAWESI
+TENGAH",1,-,2,-,-,-,-,-,-,-,44,1,,,
+73,"SULAWESI
+SELATAN",20,-,7,1.393,17,8,36,3,-,-,44,1,,,
+74,"SULAWESI
+TENGGARA",3,-,-,170,2,29,-,-,-,-,44,1,,,
+76,SULAWESI BARAT,1,-,-,-,-,-,5,-,-,-,44,1,,,
+81,MALUKU,7,-,1,289,11,21,33,5,-,-,44,1,,,
+82,MALUKU UTARA,2,2,-,-,-,-,-,-,-,-,44,1,,,
+94,PAPUA,1,7,4,680,4,-,-,-,-,-,44,1,,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,45,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",45,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,45,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),45,1,(13),(14),
+11,ACEH,1106,"ACEH
+TENGAH",2,-,5,-,-,-,1,1,45,1,-,-,
+,,1107,ACEH BARAT,1,-,-,360,-,-,-,-,45,1,-,-,
+,,1113,GAYO LUES,3,-,-,3,4,-,-,-,45,1,-,-,
+,,1172,"KOTA
+SABANG",1,-,-,-,-,-,2,-,45,1,-,-,
+,,1174,"KOTA LHOK-
+SEUMAWE",1,-,-,5,-,-,1,-,45,1,-,-,
+12,"SUMA-
+TERA
+UTARA",1205,"TAPANULI
+UTARA",1,-,-,-,-,-,-,-,45,1,-,-,
+,,1210,DAIRI,5,-,-,15,-,-,4,-,45,1,-,-,
+,,1212,"DELI SER-
+DANG",1,-,-,-,-,-,3,-,45,1,-,-,
+,,1213,LANGKAT,1,3,-,-,-,-,-,-,45,1,-,-,
+,,1271,"KOTA
+SIBOLGA",1,-,-,-,-,-,2,-,45,1,-,-,
+13,"SUMA-
+TERA
+BARAT",1301,"KEPULAUAN
+MENTAWAI",1,-,-,-,-,-,-,-,45,1,-,-,
+,,1305,TANAH DATAR,1,1,-,4,1,-,-,-,45,1,-,-,
+,,1306,"PADANG
+PARIAMAN",2,-,-,-,-,1,-,-,45,1,-,-,
+,,1307,AGAM,3,-,-,10,-,1,3,-,45,1,-,-,
+,,1308,"LIMA PULUH
+KOTA",1,-,3,-,-,-,-,-,45,1,-,-,
+,,1309,PASAMAN,1,-,-,952,-,-,-,-,45,1,-,-,
+,,1312,"PASAMAN
+BARAT",1,-,-,-,1,-,-,-,45,1,-,-,
+,,1373,"KOTA
+SAWAHL-
+UNTO",2,-,-,354,2,-,4,-,45,1,-,-,
+,,1375,"KOTA BUKIT-
+TINGGI",1,1,-,5,-,-,-,-,45,1,-,-,
+14,RIAU,1403,"INDRAGIRI
+HILIR",1,-,-,15,3,-,-,-,45,1,-,-,
+,,1407,ROKAN HULU,1,2,-,-,-,-,-,-,45,1,-,-,
+15,JAMBI,1501,KERINCI,1,-,-,7,2,-,-,-,45,1,-,-,
+,,1503,"SAROLAN-
+GUN",1,1,1,-,-,-,-,-,45,1,-,-,
+16,"SUMA-
+TERA
+SELATAN",1606,"MUSI BANYU
+ASIN",2,-,-,-,2,-,-,-,45,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,46,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",46,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,46,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),46,1,(13),(14),
+,,1608,"OGAN
+KOMERING
+ULU SELATAN",3,-,1,3,1,-,1,-,46,1,-,-,
+,,1610,OGAN ILIR,1,-,-,-,-,-,-,-,46,1,-,-,
+,,1611,"EMPAT
+LAWANG",1,-,1,-,3,-,-,-,46,1,-,-,
+,,1673,"KOTA PAGAR
+ALAM",1,-,-,-,-,-,-,-,46,1,-,-,
+17,"BENG-
+KULU",1708,KEPAHIANG,2,-,-,5,-,1,1,-,46,1,-,-,
+18,"LAM-
+PUNG",1801,"LAMPUNG
+BARAT",4,-,-,-,-,2,8,-,46,1,-,-,
+,,1813,"PESISIR
+BARAT",1,6,2,-,8,-,-,1,46,1,-,-,
+19,"KEPU-
+LAUAN
+BANGKA
+BE-
+LITUNG",1904,"BANGKA
+TENGAH",1,4,1,-,-,-,-,-,46,1,-,-,
+21,"KEPU-
+LAUAN
+RIAU",2102,BINTAN,1,-,-,-,-,-,1,-,46,1,-,-,
+,,2103,NATUNA,1,-,-,15,-,-,3,-,46,1,-,-,
+,,2171,KOTA BATAM,2,-,-,-,1,-,5,-,46,1,-,-,
+31,"DKI
+JAKARTA",3171,"KOTA JAKAR-
+TA SELATAN",1,-,-,4,-,-,1,-,46,1,-,-,
+,,3172,"KOTA JAKAR-
+TA TIMUR",1,-,-,5,-,1,-,-,46,1,-,-,
+32,"JAWA
+BARAT",3201,BOGOR,52,12,10,889,10,53,98,1,46,1,2,-,
+,,3202,SUKABUMI,28,1,3,1.019,98,7,18,2,46,1,4,-,
+,,3203,CIANJUR,1,2,-,9,-,1,2,-,46,1,-,-,
+,,3204,BANDUNG,4,-,-,21,1,2,3,-,46,1,1,-,
+,,3205,GARUT,19,-,5,139,13,2,5,-,46,1,-,-,
+,,3206,"TASIKMA-
+LAYA",4,1,-,10,3,1,1,-,46,1,-,-,
+,,3207,CIAMIS,10,-,-,121,4,3,25,2,46,1,-,-,
+,,3208,KUNINGAN,12,-,1,27,1,6,4,1,46,1,-,-,
+,,3209,CIREBON,3,-,-,10,1,-,2,-,46,1,-,-,
+,,3210,MAJALENGKA,39,-,-,132,-,12,37,1,46,1,1,-,
+,,3211,SUMEDANG,5,-,-,3,2,2,3,-,46,1,-,-,
+,,3214,"PURWAKAR-
+TA",2,-,-,20,4,-,22,-,46,1,2,1,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,47,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",47,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,47,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),47,1,(13),(14),
+,,3217,"BANDUNG
+BARAT",33,-,4,330,34,22,86,7,47,1,1,-,
+,,3271,KOTA BOGOR,23,-,-,242,9,5,23,-,47,1,1,-,
+,,3277,KOTA CIMAHI,1,2,6,-,-,-,-,-,47,1,-,-,
+,,3278,"KOTA TASIK-
+MALAYA",13,-,-,25,2,3,6,-,47,1,-,-,
+,,3329,BREBES,1,-,1,-,-,1,-,-,47,1,-,-,
+33,"JAWA
+TENGAH",3301,CILACAP,19,-,-,122,7,6,30,2,47,1,1,-,
+,,3302,BANYUMAS,23,-,-,71,8,11,16,-,47,1,-,-,
+,,3303,"PURBAL-
+INGGA",6,-,-,9,1,1,4,1,47,1,-,-,
+,,3304,"BANJARNE-
+GARA",32,1,6,313,10,10,70,1,47,1,3,-,
+,,3305,KEBUMEN,1,-,-,-,2,1,27,1,47,1,-,-,
+,,3306,PURWOREJO,14,-,-,174,5,10,66,-,47,1,-,-,
+,,3307,WONOSOBO,4,2,2,10,-,2,2,-,47,1,-,-,
+,,3308,MAGELANG,25,1,4,205,2,4,33,-,47,1,1,-,
+,,3309,BOYOLALI,4,-,-,17,1,3,3,-,47,1,-,-,
+,,3310,KLATEN,1,-,-,30,-,-,1,-,47,1,-,-,
+,,3312,WONOGIRI,12,-,-,83,6,10,40,-,47,1,1,1,
+,,3313,"KARANGA-
+NYAR",4,-,-,15,1,1,2,-,47,1,-,-,
+,,3314,SRAGEN,7,-,2,24,-,4,4,-,47,1,-,-,
+,,3315,GROBOGAN,4,-,-,-,1,-,3,-,47,1,-,-,
+,,3316,BLORA,1,-,-,-,-,-,2,-,47,1,-,-,
+,,3318,PATI,3,-,-,-,-,1,30,-,47,1,-,-,
+,,3319,KUDUS,3,-,-,-,1,-,4,-,47,1,-,-,
+,,3320,JEPARA,10,-,5,11,10,8,3,-,47,1,-,-,
+,,3322,SEMARANG,10,1,1,2,1,3,7,-,47,1,-,-,
+,,3323,"TEMANGGU-
+NG",29,-,2,285,4,4,65,-,47,1,1,-,
+,,3324,KENDAL,6,-,-,28,-,1,10,-,47,1,-,-,
+,,3325,BATANG,1,-,-,-,-,-,1,-,47,1,-,-,
+,,3326,PEKALONGAN,2,-,-,-,-,16,-,-,47,1,1,-,
+,,3327,PEMALANG,1,1,-,15,2,-,1,-,47,1,-,-,
+,,3328,TEGAL,2,-,-,-,1,1,-,-,47,1,-,-,
+,,3329,BREBES,17,2,-,7,2,5,16,-,47,1,1,-,
+,,3374,"KOTA SEMA-
+RANG",42,2,2,105,8,16,32,1,47,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,48,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",48,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,48,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),48,1,(13),(14),
+34,"DI YOGY-
+AKARTA",3402,BANTUL,2,3,3,7.451,-,-,6,-,48,1,-,-,
+,,3403,"GUNUNG-
+KIDUL",2,-,-,101,-,3,1,-,48,1,-,-,
+,,3404,SLEMAN,2,1,-,-,-,-,1,-,48,1,-,-,
+35,"JAWA
+TIMUR",3501,PACITAN,3,-,-,-,1,1,1,-,48,1,-,-,
+,,3502,PONOROGO,8,-,-,14,1,1,3,-,48,1,-,-,
+,,3503,TRENGGALEK,8,-,-,44,-,1,10,1,48,1,-,-,
+,,3505,BLITAR,3,-,-,-,1,1,3,-,48,1,-,-,
+,,3507,MALANG,1,-,-,-,-,-,1,-,48,1,-,-,
+,,3509,JEMBER,2,-,-,-,-,1,3,-,48,1,1,-,
+,,3512,SITUBONDO,1,-,-,-,1,-,-,-,48,1,-,-,
+,,3513,"PROBOL-
+INGGO",3,-,-,10,-,-,3,-,48,1,-,-,
+,,3516,MOJOKERTO,1,-,-,25,-,-,-,-,48,1,-,-,
+,,3520,MAGETAN,1,-,-,-,-,1,-,-,48,1,-,-,
+,,3522,BOJONEGORO,1,-,-,-,-,-,-,-,48,1,-,-,
+,,3523,TUBAN,2,-,-,-,-,-,1,-,48,1,-,-,
+,,3524,LAMONGAN,3,-,-,91,2,2,7,1,48,1,2,-,
+,,3528,PAMEKASAN,1,2,1,-,-,-,-,-,48,1,-,-,
+,,3573,"KOTA
+MALANG",5,-,-,9,4,4,-,-,48,1,-,1,
+,,3579,KOTA BATU,3,-,-,5,2,1,-,-,48,1,-,-,
+36,BANTEN,3602,LEBAK,1,-,-,499,43,-,20,-,48,1,3,-,
+,,3671,"KOTA TAN-
+GERANG",1,1,1,-,-,-,-,-,48,1,-,-,
+51,BALI,5103,BADUNG,2,-,-,-,-,-,1,1,48,1,-,-,
+,,5106,BANGLI,1,-,-,-,-,-,1,-,48,1,-,-,
+,,5107,"KARANGAS-
+EM",4,3,12,-,1,-,1,-,48,1,5,-,
+,,5108,BULELENG,2,4,-,-,4,-,-,-,48,1,-,-,
+53,"NUSA
+TENG-
+GARA
+TIMUR",5306,BELU,1,-,-,-,-,-,1,-,48,1,-,-,
+,,5313,MANGGARAI,1,1,-,-,-,-,-,-,48,1,-,-,
+,,5315,"MANGGARAI
+BARAT",1,8,3,684,3,-,-,-,48,1,-,-,
+61,"KALIM-
+ANTAN
+BARAT",6102,BENGKAYANG,1,3,-,-,11,-,-,-,48,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,49,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",49,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,49,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),49,1,(13),(14),
+,,6111,"KAYONG
+UTARA",1,-,-,-,1,-,-,1,49,1,-,-,
+62,"KALIM-
+ANTAN
+TENGAH",6205,"BARITO
+UTARA",1,-,-,12,2,-,1,-,49,1,-,-,
+,,6208,SERUYAN,2,-,-,10,2,-,1,-,49,1,-,-,
+63,"KALIM-
+ANTAN
+SELATAN",6302,KOTABARU,4,8,1,1.222,16,6,-,-,49,1,-,-,
+,,6303,BANJAR,1,5,-,-,-,-,-,-,49,1,-,-,
+,,6306,"HULU SUNGAI
+SELATAN",1,-,-,2,-,-,1,-,49,1,-,-,
+,,6311,BALANGAN,1,-,-,-,1,-,-,-,49,1,-,-,
+,,6372,"KOTA BAN-
+JARBARU",3,7,7,-,1,-,-,-,49,1,-,-,
+64,"KALIM-
+ANTAN
+TIMUR",6401,PASER,1,-,-,60,3,-,-,-,49,1,-,-,
+,,6403,"KUTAI KER-
+TANEGARA",1,-,-,30,6,-,-,-,49,1,-,-,
+,,6409,"PENAJAM
+PASER UTARA",3,-,-,-,-,-,1,2,49,1,-,-,
+,,6472,"KOTA SAMA-
+RINDA",4,4,-,25,-,5,-,-,49,1,-,-,
+65,"KALIM-
+ANTAN
+UTARA",6571,"KOTA TARA-
+KAN",1,-,1,42,-,-,14,-,49,1,-,-,
+71,"SULAWE-
+SI UTARA",7101,"BOLAANG
+MONGON-
+DOW",1,16,18,-,-,-,-,-,49,1,-,-,
+,,7102,MINAHASA,2,-,-,5,1,-,1,-,49,1,-,-,
+,,7172,KOTA BITUNG,1,-,1,-,-,1,-,-,49,1,-,-,
+72,"SU-
+LAWESI
+TENGAH",7202,BANGGAI,1,-,2,-,-,-,-,-,49,1,-,-,
+73,"SU-
+LAWESI
+SELATAN",7301,SELAYAR,1,-,-,5,1,-,-,-,49,1,-,-,
+,,7306,GOWA,1,-,6,10,2,-,-,-,49,1,-,-,
+,,7310,BARRU,1,-,-,3,-,-,1,-,49,1,-,-,
+,,7314,"SIDENRENG
+RAPPANG",2,-,-,670,-,-,-,-,49,1,-,-,
+,,7316,ENREKANG,2,-,-,455,10,-,-,-,49,1,-,-,
+,,7318,TANA TORAJA,12,-,1,237,3,4,30,3,49,1,-,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabupaten
+/ Kota","Nama
+Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,50,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",50,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,50,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),50,1,(13),(14),
+,,7325,LUWU TIMUR,1,-,-,13,1,4,5,-,50,1,-,-,
+74,"SU-
+LAWESI
+TENGGA-
+RA",7408,"KOLAKA
+UTARA",1,-,-,155,-,29,-,-,50,1,-,-,
+,,7409,"BUTON
+UTARA",1,-,-,-,1,-,-,-,50,1,-,-,
+,,7471,"KOTA
+KENDARI",1,-,-,15,1,-,-,-,50,1,-,-,
+76,"SULAWE-
+SI BARAT",7604,MAMUJU,1,-,-,-,-,-,5,-,50,1,-,-,
+81,MALUKU,8102,"MALUKU
+TENGGARA",1,-,-,9,1,-,-,-,50,1,-,-,
+,,8103,"MALUKU
+TENGAH",1,-,-,20,-,-,4,-,50,1,-,-,
+,,8106,"SERAM BAGI-
+AN BARAT",2,-,-,225,10,15,20,1,50,1,-,-,
+,,8171,KOTA AMBON,3,-,1,35,-,6,9,4,50,1,-,-,
+82,"MALUKU
+UTARA",8207,"PULAU
+MOROTAI",2,2,-,-,-,-,-,-,50,1,-,-,
+94,PAPUA,9471,"KOTA
+JAYAPURA",1,7,4,680,4,-,-,-,50,1,-,-,
+No,Provinsi,Jumlah Titik Panas,,,,,,,,,,52,1,,,Total
+,,Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,52,1,November,Desember,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),52,1,(13),(14),(15)
+1,Aceh,1,1,2,5,-,6,11,10,1,-,52,1,-,-,37
+2,Bali,-,-,1,2,11,-,-,3,-,1,52,1,1,-,19
+3,Banten,-,-,-,-,-,-,-,-,14,5,52,1,1,-,20
+4,Bengkulu,-,3,1,-,4,-,1,3,10,4,52,1,1,-,27
+5,"Dki
+Jakarta",-,-,-,-,-,-,2,2,-,-,52,1,-,-,4
+6,Gorontalo,-,2,4,1,-,-,-,10,34,11,52,1,1,-,63
+7,Jambi,2,-,1,-,3,-,77,306,2.708,587,52,1,2,1,3.687
+8,"Jawa
+Barat",-,-,-,1,-,6,17,15,7,18,52,1,3,-,67
+9,"Jawa
+Tengah",-,-,-,-,-,2,6,6,29,17,52,1,1,-,61
+10,"Jawa
+Timur",-,-,-,-,1,10,14,37,82,316,52,1,4,2,466
+11,"Kaliman-
+tan Barat",1,-,40,15,23,8,115,1.253,3.041,28,52,1,53,1,4.578
+12,"Kalim-
+antan
+Selatan",2,4,2,-,11,51,11,75,548,137,52,1,108,5,954
+13,"Kalim-
+antan
+Tengah",1,-,-,-,3,4,150,624,5.739,398,52,1,494,4,7.417
+14,"Kaliman-
+tan Timur",2,11,8,5,-,-,11,118,788,119,52,1,36,2,1.100
+15,"Kaliman-
+tan Utara",-,6,15,-,-,-,10,47,135,7,52,1,-,-,220
+16,"Kep.
+Bangka
+Belitung",-,-,1,-,1,1,14,55,73,33,52,1,18,-,196
+17,Kep. Riau,-,3,38,97,29,-,1,13,32,-,52,1,-,-,213
+18,Lampung,1,1,-,1,11,8,20,34,102,250,52,1,117,4,549
+19,Maluku,1,-,2,-,-,-,3,10,138,31,52,1,55,38,278
+20,"Maluku
+Utara",-,3,6,6,6,4,4,5,26,8,52,1,10,4,82
+21,"Nusa
+Tenggara
+Barat",-,5,3,3,7,14,44,33,71,305,52,1,37,5,527
+22,"Nusa
+Tenggara
+Timur",-,-,-,-,8,29,80,82,91,296,52,1,62,4,652
+23,Papua,2,-,-,-,-,6,11,13,73,215,52,1,110,42,472
+24,"Papua
+Barat",-,-,2,-,-,6,2,3,5,-,52,1,5,-,23
+25,Riau,7,211,272,8,17,17,159,734,1.174,32,52,1,13,1,2.645
+26,"Sulawesi
+Barat",1,-,-,-,3,-,3,9,37,8,52,1,1,-,62
+No,Provinsi,Jumlah Titik Panas,,,,,,,,,,53,1,,,Total
+,,Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,53,1,November,Desember,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),53,1,(13),(14),(15)
+27,"Sulawesi
+Selatan",11,23,24,8,25,19,27,72,115,133,53,1,55,26,538
+28,"Sulawesi
+Tengah",3,6,8,1,3,1,2,26,99,67,53,1,35,4,255
+29,"Sulawesi
+Tenggara",1,-,2,1,2,2,5,21,72,132,53,1,80,21,339
+30,"Sulawesi
+Utara",11,4,1,-,-,-,13,65,71,23,53,1,33,41,262
+31,"Sumatera
+Barat",-,-,4,2,3,1,7,7,17,4,53,1,10,2,57
+32,"Sumatera
+Selatan",1,-,-,-,6,21,20,309,1.512,1.456,53,1,547,2,3.874
+33,"Sumatera
+Utara",1,4,1,1,-,8,6,25,13,-,53,1,1,-,60
+Total,,49,287,438,157,177,224,846,4.025,16.857,4.641,53,1,1.894,209,29.804
+No,Provinsi,Luas Lahan Terbakar (Ha),,,,,,,,,,54,1,,,
+(1),(2),(3),,,,,,,,,,54,1,,,
+1,Aceh,"730,00",,,,,,,,,,54,1,,,
+2,Bali,"373,00",,,,,,,,,,54,1,,,
+3,Bangka Belitung,"4.778,00",,,,,,,,,,54,1,,,
+4,Banten,"9,00",,,,,,,,,,54,1,,,
+5,Bengkulu,"11,00",,,,,,,,,,54,1,,,
+6,DKI Jakarta,-,,,,,,,,,,54,1,,,
+7,Gorontalo,"1.909,00",,,,,,,,,,54,1,,,
+8,Jambi,"56.593,00",,,,,,,,,,54,1,,,
+9,Jawa Barat,"9.552,00",,,,,,,,,,54,1,,,
+10,Jawa Tengah,"4.782,00",,,,,,,,,,54,1,,,
+11,Jawa Timur,"23.655,00",,,,,,,,,,54,1,,,
+12,Kalimantan Barat,"151.919,00",,,,,,,,,,54,1,,,
+13,Kalimantan Selatan,"137.848,00",,,,,,,,,,54,1,,,
+14,Kalimantan Tengah,"317.749,00",,,,,,,,,,54,1,,,
+15,Kalimantan Timur,"68.524,00",,,,,,,,,,54,1,,,
+16,Kalimantan Utara,"8.559,00",,,,,,,,,,54,1,,,
+17,Kepulauan Riau,"6.134,00",,,,,,,,,,54,1,,,
+18,Lampung,"35.546,00",,,,,,,,,,54,1,,,
+19,Maluku,"27.211,00",,,,,,,,,,54,1,,,
+20,Maluku Utara,"2.781,00",,,,,,,,,,54,1,,,
+21,Nusa Tenggara Barat,"60.234,00",,,,,,,,,,54,1,,,
+22,Nusa Tenggara Timur,"136.920,00",,,,,,,,,,54,1,,,
+23,Papua,"108.110,00",,,,,,,,,,54,1,,,
+24,Papua Barat,"1.533,00",,,,,,,,,,54,1,,,
+25,Riau,"90.550,00",,,,,,,,,,54,1,,,
+26,Sulawesi Barat,"3.029,00",,,,,,,,,,54,1,,,
+27,Sulawesi Selatan,"15.697,00",,,,,,,,,,54,1,,,
+28,Sulawesi Tengah,"11.551,00",,,,,,,,,,54,1,,,
+29,Sulawesi Tenggara,"16.929,00",,,,,,,,,,54,1,,,
+30,Sulawesi Utara,"4.574,00",,,,,,,,,,54,1,,,
+31,Sumatera Barat,"2.133,00",,,,,,,,,,54,1,,,
+32,Sumatera Selatan,"336.798,00",,,,,,,,,,54,1,,,
+33,Sumatera Utara,"2.514,00",,,,,,,,,,54,1,,,
+34,Yogyakarta,"23,00",,,,,,,,,,54,1,,,
+Total,,"1.649.258,00",,,,,,,,,,54,1,,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,56,1,,,
+,,,"Meninggal
+& Hilang",Luka / Sakit,"Mengungsi
+&
+Terdampak","Rumah
+Rusak Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",56,1,,,
+,,,Jiwa,,,Unit,,,,,,56,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),56,1,,,
+13,"SUMATERA
+BARAT",3,-,62,1.495,116,163,227,8,5,4,56,1,,,
+18,LAMPUNG,1,-,,1.050,,,,-,-,-,56,1,,,
+32,JAWA BARAT,6,2,1,831,21,84,119,9,7,-,56,1,,,
+33,"JAWA
+TENGAH",2,-,,-,1,1,3,-,1,-,56,1,,,
+35,JAWA TIMUR,3,-,5,-,,2,108,4,4,1,56,1,,,
+36,BANTEN,1,5,2,176,133,128,440,22,19,-,56,1,,,
+51,BALI,1,-,5,-,1,,5,13,1,-,56,1,,,
+52,"NUSA
+TENGGARA
+BARAT",2,4,77,25.416,876,1.617,2.097,-,4,50,56,1,,,
+53,"NUSA
+TENGGARA
+TIMUR",1,-,,-,,,,1,-,-,56,1,,,
+71,"SULAWESI
+UTARA",1,-,,-,,,2,-,-,-,56,1,,,
+72,"SULAWESI
+TENGAH",2,1,2,6.500,6,3,34,50,2,-,56,1,,,
+81,MALUKU,7,43,1.625,230.965,6.123,3.322,2.838,183,92,29,56,1,,,
+82,"MALUKU
+UTARA",4,14,123,45.201,1.201,953,829,183,35,23,56,1,,,
+94,PAPUA,2,-,3,240,69,32,,4,4,2,56,1,,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,57,1,,,
+,,,,,"Meninggal &
+Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",57,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,57,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),57,1,(13),(14),
+13,"SUMATERA
+BARAT",1301,"KEPULAUAN
+MENTAWAI",1,-,-,-,-,11,-,-,57,1,1,1,
+,,1306,"PADANG
+PARIAMAN",1,-,-,43,-,-,15,-,57,1,1,-,
+,,1310,"SOLOK
+SELATAN",1,-,62,1.452,116,152,212,8,57,1,3,3,
+18,LAMPUNG,1803,"LAMPUNG
+SELATAN",1,-,-,1.050,-,-,-,-,57,1,-,-,
+32,"JAWA
+BARAT",3201,BOGOR,1,-,-,321,2,23,7,-,57,1,1,-,
+,,3202,SUKABUMI,4,2,1,510,17,48,83,7,57,1,4,-,
+,,3203,CIANJUR,1,-,-,-,1,7,23,-,57,1,1,-,
+,,3204,BANDUNG,1,-,-,-,-,2,-,-,57,1,-,-,
+,,3205,GARUT,1,-,-,-,-,3,1,1,57,1,-,-,
+,,3217,"BANDUNG
+BARAT",1,-,-,-,1,1,4,-,57,1,-,-,
+,,3271,KOTA BOGOR,1,-,-,-,-,-,1,-,57,1,-,-,
+,,3278,"KOTA TASIK-
+MALAYA",2,-,-,-,-,-,-,1,57,1,1,-,
+33,"JAWA
+TENGAH",3301,CILACAP,1,-,-,-,1,-,-,-,57,1,-,-,
+,,3320,JEPARA,1,-,-,-,-,1,3,-,57,1,1,-,
+35,"JAWA
+TIMUR",3508,LUMAJANG,1,-,-,-,-,-,9,-,57,1,-,-,
+,,3509,JEMBER,1,-,-,-,-,-,1,1,57,1,-,1,
+,,3510,"BANYU-
+WANGI",1,-,4,-,-,2,1,-,57,1,3,-,
+,,3529,SUMENEP,1,-,1,-,-,-,97,3,57,1,1,-,
+36,BANTEN,3601,"PANDE-
+GLANG",1,2,2,-,123,122,363,18,57,1,16,-,
+,,3602,LEBAK,1,3,-,176,3,-,60,3,57,1,2,-,
+,,3604,SERANG,1,-,-,-,7,6,14,1,57,1,-,-,
+,,3672,"KOTA
+CILEGON",1,-,-,-,-,-,3,-,57,1,1,-,
+51,BALI,5101,JEMBRANA,1,-,2,-,-,-,2,2,57,1,-,-,
+,,5103,BADUNG,1,-,3,-,-,-,-,11,57,1,-,-,
+,,5104,GIANYAR,1,-,-,-,-,-,2,-,57,1,-,-,
+,,5108,BULELENG,1,-,-,-,1,-,1,-,57,1,-,-,
+,,5171,"KOTA
+DENPASAR",1,-,-,-,-,-,-,-,57,1,1,-,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten/
+Kota","Nama
+Kabupaten
+/ Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,58,1,,,
+,,,,,"Meninggal &
+Hilang","Luka /
+Sakit","Mengungsi
+& Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Fasilitas
+Pendidikan",58,1,"Fasilitas
+Peribadatan","Fasilitas
+Kesehatan",
+,,,,,Jiwa,,,Unit,,,,58,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),58,1,(13),(14),
+52,"NUSA
+TENGGARA
+BARAT",5203,"LOMBOK
+TIMUR",1,4,40,25.416,876,1.617,2.096,-,58,1,3,50,
+,,5204,SUMBAWA,1,-,-,-,-,-,1,-,58,1,1,-,
+,,5208,"LOMBOK
+UTARA",1,-,37,-,-,-,-,-,58,1,-,-,
+53,"NUSA
+TENGGARA
+TIMUR",5301,"SUMBA
+BARAT",1,-,-,-,-,-,-,1,58,1,-,-,
+71,"SULAWESI
+UTARA",7102,MINAHASA,1,-,-,-,-,-,2,-,58,1,-,-,
+,,7109,"MINAHASA
+TENGGARA",1,-,-,-,-,-,-,-,58,1,-,-,
+72,"SULAWESI
+TENGAH",7202,BANGGAI,1,1,2,6.500,6,3,34,1,58,1,2,-,
+,,7204,POSO,1,-,-,-,-,-,-,49,58,1,-,-,
+81,MALUKU,8102,"MALUKU
+TENGGARA",1,-,1,-,-,-,3,-,58,1,-,1,
+,,8103,"MALUKU
+TENGAH",3,18,1.152,90.833,4.453,2.454,2.128,58,58,1,19,6,
+,,8106,"SERAM
+BAGIAN
+BARAT",1,11,396,111.434,731,469,300,47,58,1,36,10,
+,,8108,"MALUKU
+BARAT DAYA",1,-,-,-,-,-,-,-,58,1,1,-,
+,,8171,"KOTA
+AMBON",4,14,76,28.698,939,399,407,78,58,1,36,12,
+82,"MALUKU
+UTARA",8204,"HALMA-
+HERA
+SELATAN",2,14,121,44.453,1.201,953,746,181,58,1,30,22,
+,,8207,"PULAU
+MOROTAI",1,-,-,748,-,-,44,-,58,1,2,-,
+,,8271,"KOTA
+TERNATE",1,-,2,-,-,-,39,2,58,1,3,1,
+94,PAPUA,9419,SARMI,1,-,3,240,69,32,-,4,58,1,4,1,
+,,9431,"MAMBERA-
+MO TENGAH",2,-,-,-,-,-,-,-,58,1,-,1,
+Kode Wilayah,Nama Provinsi,Korban,,,,,,,,,,60,1,,,
+,,Mengungsi & Terdampak,,,,,,,,,,60,1,,,
+(1),(2),(3),,,,,,,,,,60,1,,,
+13,SUMATERA BARAT,4.615,,,,,,,,,,60,1,,,
+32,JAWA BARAT,884.010,,,,,,,,,,60,1,,,
+33,JAWA TENGAH,404.143,,,,,,,,,,60,1,,,
+34,DI YOGYAKARTA,222.978,,,,,,,,,,60,1,,,
+35,JAWA TIMUR,436.817,,,,,,,,,,60,1,,,
+36,BANTEN,15.430,,,,,,,,,,60,1,,,
+51,BALI,53.332,,,,,,,,,,60,1,,,
+52,NUSA TENGGARA BARAT,674.801,,,,,,,,,,60,1,,,
+53,NUSA TENGGARA TIMUR,1.154.714,,,,,,,,,,60,1,,,
+63,KALIMANTAN SELATAN,3.820,,,,,,,,,,60,1,,,
+71,SULAWESI UTARA,635,,,,,,,,,,60,1,,,
+73,SULAWESI SELATAN,14.981,,,,,,,,,,60,1,,,
+74,SULAWESI TENGGARA,250,,,,,,,,,,60,1,,,
+81,MALUKU,4.032,,,,,,,,,,60,1,,,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Kode Wilayah
+Kabupaten / Kota",Nama Kabupaten / Kota,Korban,,,,,,,,61,1,,,
+,,,,Mengungsi & Terdampak,,,,,,,,61,1,,,
+(1),(2),(3),(4),(5),,,,,,,,61,1,,,
+13,SUMATERA BARAT,1371,KOTA PADANG,4.615,,,,,,,,61,1,,,
+32,JAWA BARAT,3201,BOGOR,16.471,,,,,,,,61,1,,,
+,,3202,SUKABUMI,6.515,,,,,,,,61,1,,,
+,,3203,CIANJUR,84.945,,,,,,,,61,1,,,
+,,3204,BANDUNG,228.790,,,,,,,,61,1,,,
+,,3207,CIAMIS,6.915,,,,,,,,61,1,,,
+,,3209,CIREBON,90.589,,,,,,,,61,1,,,
+,,3210,MAJALENGKA,2.280,,,,,,,,61,1,,,
+,,3213,SUBANG,1.600,,,,,,,,61,1,,,
+,,3214,PURWAKARTA,74.930,,,,,,,,61,1,,,
+,,3216,BEKASI,23.960,,,,,,,,61,1,,,
+,,3217,BANDUNG BARAT,310.885,,,,,,,,61,1,,,
+,,3271,KOTA BOGOR,2.975,,,,,,,,61,1,,,
+,,3274,KOTA CIREBON,8.265,,,,,,,,61,1,,,
+,,3278,KOTA TASIKMALAYA,24.890,,,,,,,,61,1,,,
+33,JAWA TENGAH,3301,CILACAP,60.475,,,,,,,,61,1,,,
+,,3302,BANYUMAS,51.927,,,,,,,,61,1,,,
+,,3303,PURBALINGGA,12.292,,,,,,,,61,1,,,
+,,3304,BANJARNEGARA,18.369,,,,,,,,61,1,,,
+,,3305,KEBUMEN,4.838,,,,,,,,61,1,,,
+,,3306,PURWOREJO,70.591,,,,,,,,61,1,,,
+,,3309,BOYOLALI,24.280,,,,,,,,61,1,,,
+,,3312,WONOGIRI,6.078,,,,,,,,61,1,,,
+,,3313,KARANGANYAR,550,,,,,,,,61,1,,,
+,,3314,SRAGEN,24.689,,,,,,,,61,1,,,
+,,3315,GROBOGAN,32.802,,,,,,,,61,1,,,
+,,3322,SEMARANG,13.608,,,,,,,,61,1,,,
+,,3323,TEMANGGUNG,13.120,,,,,,,,61,1,,,
+,,3324,KENDAL,1.015,,,,,,,,61,1,,,
+,,3326,PEKALONGAN,7.302,,,,,,,,61,1,,,
+,,3327,PEMALANG,42.176,,,,,,,,61,1,,,
+,,3328,TEGAL,17.495,,,,,,,,61,1,,,
+,,3329,BREBES,1.500,,,,,,,,61,1,,,
+,,3375,KOTA PEKALONGAN,1.036,,,,,,,,61,1,,,
+34,DI YOGYAKARTA,3402,BANTUL,2.549,,,,,,,,61,1,,,
+,,3403,GUNUNGKIDUL,220.429,,,,,,,,61,1,,,
+35,JAWA TIMUR,3501,PACITAN,11.428,,,,,,,,61,1,,,
+,,3502,PONOROGO,7.863,,,,,,,,61,1,,,
+,,3503,TRENGGALEK,14.064,,,,,,,,61,1,,,
+,,3505,BLITAR,625,,,,,,,,61,1,,,
+,,3508,LUMAJANG,6.937,,,,,,,,61,1,,,
+,,3510,BANYUWANGI,7.541,,,,,,,,61,1,,,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Kode Wilayah
+Kabupaten / Kota",Nama Kabupaten / Kota,Korban,,,,,,,,62,1,,,
+,,,,Mengungsi & Terdampak,,,,,,,,62,1,,,
+(1),(2),(3),(4),(5),,,,,,,,62,1,,,
+,,3511,BONDOWOSO,11.520,,,,,,,,62,1,,,
+,,3512,SITUBONDO,1.358,,,,,,,,62,1,,,
+,,3513,PROBOLINGGO,9.196,,,,,,,,62,1,,,
+,,3520,MAGETAN,10.445,,,,,,,,62,1,,,
+,,3521,NGAWI,70.960,,,,,,,,62,1,,,
+,,3522,BOJONEGORO,50.089,,,,,,,,62,1,,,
+,,3523,TUBAN,8.623,,,,,,,,62,1,,,
+,,3524,LAMONGAN,9.010,,,,,,,,62,1,,,
+,,3526,BANGKALAN,30.936,,,,,,,,62,1,,,
+,,3527,SAMPANG,34.484,,,,,,,,62,1,,,
+,,3528,PAMEKASAN,76.671,,,,,,,,62,1,,,
+,,3529,SUMENEP,3.118,,,,,,,,62,1,,,
+,,3572,KOTA BLITAR,28.075,,,,,,,,62,1,,,
+,,3575,KOTA PASURUAN,37.747,,,,,,,,62,1,,,
+,,3576,KOTA MOJOKERTO,6.127,,,,,,,,62,1,,,
+36,BANTEN,3602,LEBAK,3.500,,,,,,,,62,1,,,
+,,3604,SERANG,11.930,,,,,,,,62,1,,,
+51,BALI,5107,KARANGASEM,400,,,,,,,,62,1,,,
+,,5108,BULELENG,52.932,,,,,,,,62,1,,,
+52,NUSA TENGGARA BARAT,5201,LOMBOK BARAT,64.985,,,,,,,,62,1,,,
+,,5202,LOMBOK TENGAH,273.967,,,,,,,,62,1,,,
+,,5203,LOMBOK TIMUR,128.848,,,,,,,,62,1,,,
+,,5204,SUMBAWA,80.765,,,,,,,,62,1,,,
+,,5205,DOMPU,48.717,,,,,,,,62,1,,,
+,,5206,BIMA,20.918,,,,,,,,62,1,,,
+,,5207,SUMBAWA BARAT,10.868,,,,,,,,62,1,,,
+,,5208,LOMBOK UTARA,28.136,,,,,,,,62,1,,,
+,,5272,KOTA BIMA,17.597,,,,,,,,62,1,,,
+53,NUSA TENGGARA TIMUR,5301,SUMBA BARAT,139.746,,,,,,,,62,1,,,
+,,5302,SUMBA TIMUR,13.543,,,,,,,,62,1,,,
+,,5303,KUPANG,40.186,,,,,,,,62,1,,,
+,,5304,TIMOR TENGAH SELATAN,29.398,,,,,,,,62,1,,,
+,,5305,TIMOR TENGAH UTARA,94.338,,,,,,,,62,1,,,
+,,5306,BELU,99.410,,,,,,,,62,1,,,
+,,5307,ALOR,59.055,,,,,,,,62,1,,,
+,,5308,LEMBATA,23.408,,,,,,,,62,1,,,
+,,5309,FLORES TIMUR,22.082,,,,,,,,62,1,,,
+,,5310,SIKKA,8.115,,,,,,,,62,1,,,
+,,5312,NGADA,163.217,,,,,,,,62,1,,,
+,,5314,ROTE NDAO,51.076,,,,,,,,62,1,,,
+,,5315,MANGGARAI BARAT,87.196,,,,,,,,62,1,,,
+"Kode
+Wilayah
+Provinsi",Nama Provinsi,"Kode Wilayah
+Kabupaten / Kota",Nama Kabupaten / Kota,Korban,,,,,,,,63,1,,,
+,,,,Mengungsi & Terdampak,,,,,,,,63,1,,,
+(1),(2),(3),(4),(5),,,,,,,,63,1,,,
+,,5316,SUMBA TENGAH,46.800,,,,,,,,63,1,,,
+,,5317,SUMBA BARAT DAYA,15.493,,,,,,,,63,1,,,
+,,5318,NAGEKEO,63.662,,,,,,,,63,1,,,
+,,5320,SABU RAIJUA,94.509,,,,,,,,63,1,,,
+,,5321,MALAKA,68.740,,,,,,,,63,1,,,
+,,5371,KOTA KUPANG,34.740,,,,,,,,63,1,,,
+63,KALIMANTAN SELATAN,6311,BALANGAN,3.820,,,,,,,,63,1,,,
+71,SULAWESI UTARA,7107,BOLAANG MONGONDOW UTARA,635,,,,,,,,63,1,,,
+73,SULAWESI SELATAN,7304,JENEPONTO,11.574,,,,,,,,63,1,,,
+,,7305,TAKALAR,3.407,,,,,,,,63,1,,,
+74,SULAWESI TENGGARA,7404,KOLAKA,250,,,,,,,,63,1,,,
+81,MALUKU,8107,SERAM BAGIAN TIMUR,4.032,,,,,,,,63,1,,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,,,64,1,,,
+,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam","Fasilitas
+Pendidikan","Fasilitas
+Peribadatan",64,1,"Fasilitas
+Kesehatan",,
+,,,Jiwa,,,Unit,,,,,,64,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),64,1,(13),,
+11,ACEH,1,-,-,85,4,-,14,-,-,-,64,1,-,,
+13,"SUMATERA
+BARAT",3,-,-,189,14,-,-,26,-,-,64,1,-,,
+17,BENGKULU,1,-,-,160,-,9,9,-,-,-,64,1,-,,
+32,"JAWA
+BARAT",2,-,1,37,1,-,7,5,-,-,64,1,-,,
+33,"JAWA
+TENGAH",3,1,-,5,-,1,-,-,-,-,64,1,-,,
+35,"JAWA
+TIMUR",1,-,-,115,-,-,-,-,-,-,64,1,-,,
+51,BALI,1,-,4,-,-,-,1,-,-,1,64,1,-,,
+53,"NUSA
+TENGGARA
+TIMUR",1,-,-,2.770,56,-,-,-,-,-,64,1,-,,
+63,"KALIM-
+ANTAN
+SELATAN",2,-,-,11,3,-,-,-,-,-,64,1,-,,
+64,"KALIM-
+ANTAN
+TIMUR",1,-,-,105,5,-,16,-,-,-,64,1,-,,
+73,"SULAWESI
+SELATAN",1,-,-,-,-,-,3,37,-,-,64,1,-,,
+81,MALUKU,1,-,-,305,9,-,53,-,-,-,64,1,-,,
+"Kode
+Wilayah
+Provinsi","Nama
+Provinsi","Kode
+Wilayah
+Kabu-
+paten /
+Kota","Nama
+Kabu-
+paten/
+Kota","Jumlah
+Kejadian",Korban,,,Kerusakan,,,,65,1,,,
+,,,,,"Meninggal
+& Hilang","Luka /
+Sakit","Mengungsi &
+Terdampak","Rumah
+Rusak
+Berat","Rumah
+Rusak
+Sedang","Rumah
+Rusak
+Ringan","Rumah
+Terendam",65,1,"Fasilitas
+Pendidikan","Fasilitas
+Peribadatan","Fasilitas
+Kesehatan"
+,,,,,Jiwa,,,Unit,,,,65,1,,,
+(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),65,1,(13),(14),(15)
+11,ACEH,1112,"ACEH
+BARAT
+DAYA",1,-,-,85,4,-,14,-,65,1,-,-,-
+13,"SUMA-
+TERA
+BARAT",1301,"KEPU-
+LAUAN
+MENTA-
+WAI",1,-,-,-,-,-,-,15,65,1,-,-,-
+,,1302,"PESISIR
+SELATAN",1,-,-,189,13,-,-,11,65,1,-,-,-
+,,1306,"PADANG
+PARIA-
+MAN",1,-,-,-,1,-,-,-,65,1,-,-,-
+17,"BENG-
+KULU",1705,SELUMA,1,-,-,160,-,9,9,-,65,1,-,-,-
+32,"JAWA
+BARAT",3215,"KAR-
+AWANG",1,-,1,37,1,-,7,-,65,1,-,-,-
+,,3216,BEKASI,1,-,-,-,-,-,-,5,65,1,-,-,-
+33,"JAWA
+TENGAH",3305,"KEBU-
+MEN",1,-,-,-,-,-,-,-,65,1,-,-,-
+,,3324,KENDAL,1,1,-,-,-,-,-,-,65,1,-,-,-
+,,3374,"KOTA
+SEMA-
+RANG",1,-,-,5,-,1,-,-,65,1,-,-,-
+35,"JAWA
+TIMUR",3510,"BANYU-
+WANGI",1,-,-,115,-,-,-,-,65,1,-,-,-
+51,BALI,5107,"KARAN-
+GASEM",1,-,4,-,-,-,1,-,65,1,-,1,-
+53,"NUSA
+TENG-
+GARA
+TIMUR",5310,SIKKA,1,-,-,2.770,56,-,-,-,65,1,-,-,-
+63,"KALIM-
+ANTAN
+SELATAN",6301,"TANAH
+LAUT",1,-,-,11,2,-,-,-,65,1,-,-,-
+,,6310,"TANAH
+BUMBU",1,-,-,-,1,-,-,-,65,1,-,-,-
+64,"KALIM-
+ANTAN
+TIMUR",6401,PASER,1,-,-,105,5,-,16,-,65,1,-,-,-
+73,"SU-
+LAWESI
+SELATAN",7305,TAKALAR,1,-,-,-,-,-,3,37,65,1,-,-,-
+81,MALUKU,8104,BURU,1,-,-,305,9,-,53,-,65,1,-,-,-
+Kode Wilayah,Nama Provinsi,Jumlah Kejadian,Korban,,,,,,,,,66,1,,,
+,,,Meninggal & Hilang,Luka / Sakit,Mengungsi & Terdampak,,,,,,,66,1,,,
+,,,(jiwa),,,,,,,,,66,1,,,
+(1),(2),(3),(4),(5),(6),,,,,,,66,1,,,
+12,SUMATERA UTARA,1,-,-,7.256,,,,,,,66,1,,,
+32,JAWA BARAT,1,-,-,15,,,,,,,66,1,,,
+34,DI YOGYAKARTA,1,-,-,-,,,,,,,66,1,,,
+51,BALI,3,-,-,443,,,,,,,66,1,,,
+71,SULAWESI UTARA,1,-,-,216,,,,,,,66,1,,,
+"Kode Wilayah
+Provinsi",Nama Provinsi,"Kode Wilayah
+Kabupaten /
+Kota","Nama Kabupaten/
+Kota","Jumlah
+Kejadian",Korban,,,,,,,66,2,,,
+,,,,,"Meninggal
+& Hilang",Luka / Sakit,"Mengungsi &
+Terdampak",,,,,66,2,,,
+,,,,,(jiwa),,,,,,,66,2,,,
+(1),(2),(3),(4),(5),(6),(7),(8),,,,,66,2,,,
+12,SUMATERA UTARA,1211,KARO,1,-,-,7.256,,,,,66,2,,,
+32,JAWA BARAT,3217,BANDUNG BARAT,1,-,-,15,,,,,66,2,,,
+34,DI YOGYAKARTA,3404,SLEMAN,1,-,-,-,,,,,66,2,,,
+51,BALI,5107,KARANGASEM,3,-,-,443,,,,,66,2,,,
+71,SULAWESI UTARA,7108,"KEPULAUAN SIAU
+TAGULANDANG BIARO",1,-,-,216,,,,,66,2,,,
